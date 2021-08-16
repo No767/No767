@@ -1,27 +1,27 @@
-### Hello there, I'm Noelle - aka No767
+**Hello there, I'm Noelle - aka No767**
 
-### she/they | Student Developer
+**she/they | Student Developer**
 
-## Languages
+### Languages
 
 <img align="left"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/python.svg" />
 <img align="left"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/java.svg">
 <img align="left"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/html5.svg" />
 <img align="left"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/css3.svg">
 
-## Planned Languages to Learn
+### Planned Languages to Learn
 
 <img align="left"><img height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/javascript.svg">
 <img align="left"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/cplusplus.svg">
 <img align="left"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/kotlin.svg">
 
-## Frameworks
+### Frameworks
 
 
 <img align="left" width="26px"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/django.svg">
 <img align="left" width="26px"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/bootstrap.svg">
 
-## Tools
+### Tools
 
 <img align="left"><img height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/visualstudiocode.svg">
 <img align="left" width="26px"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/pycharm.svg">

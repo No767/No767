@@ -1,6 +1,7 @@
 ### Hey there, I'm Noelle - aka No767
 
 she/they | Student Developer
+
 I spend my free time coding and contributing to open source projects. Mainly working in Python, but starting to learn Java
 
 ### Languages

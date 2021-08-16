@@ -39,5 +39,5 @@
 <img align="left"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/npm.svg">
 <img align="left"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/yarn.svg">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=No767&count_private=true&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=No767&count_private=true&show_icons=true&theme=synthwave)
 

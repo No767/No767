@@ -1,5 +1,7 @@
 ### Hello there, I'm Noelle - aka No767
 
+she/they | Student Developer
+
 ### Languages
 
 <img align="left"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/python.svg" />

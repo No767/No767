@@ -1,6 +1,6 @@
 ### Hey there, I'm Noelle - aka No767
 
-she/they | Student Developer
+she/they | Student Developer | Member of the Robotics Eagle (Team 5507)
 
 I spend my free time coding and contributing to open source projects. Mainly working in Python, but starting to learn Java
 

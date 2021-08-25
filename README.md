@@ -69,26 +69,5 @@ I spend my free time coding and contributing to open source projects. Mainly wor
 - Django 
 - Bootstrap
 
-### Tools
-
-- VS Code
-- IntelliJ IDEA
-- Android Studio
-- PyCharm
-- TensorFlow
-- Gradle
-- Apache Maven
-- Docker
-- SQLite3
-- MySQL
-- Git
-- GitHub
-- Nginx
-- Jenkins
-- Travis CI
-- Snyk
-- npm
-- Yarn
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=No767&count_private=true&show_icons=true&theme=synthwave)
 

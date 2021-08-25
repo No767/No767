@@ -31,6 +31,7 @@ I spend my free time coding and contributing to open source projects. Mainly wor
 <img align="left"><img height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/visualstudiocode.svg">
 <img align="left" width="26px"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/pycharm.svg">
 <img align="left" width="26px"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/intellijidea.svg">
+<img align="left"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/androidstudio.svg">
 <img align="left" width="26px"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/tensorflow.svg">
 <img align="left"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/gradle.svg">
 <img align="left"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/apachemaven.svg">
@@ -45,6 +46,49 @@ I spend my free time coding and contributing to open source projects. Mainly wor
 <img align="left"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/snyk.svg">
 <img align="left"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/npm.svg">
 <img align="left"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/yarn.svg">
+
+### Or in plain text
+### Languages Learned So Far
+
+- Python
+- HTML
+- CSS
+
+### Languages Learning Right Now
+
+- Java
+- Kotlin
+
+### Planned Languages to Learn
+
+- JavaScript
+- C++
+
+### Frameworks
+
+- Django 
+- Bootstrap
+
+### Tools
+
+- VS Code
+- IntelliJ IDEA
+- Android Studio
+- PyCharm
+- TensorFlow
+- Gradle
+- Apache Maven
+- Docker
+- SQLite3
+- MySQL
+- Git
+- GitHub
+- Nginx
+- Jenkins
+- Travis CI
+- Snyk
+- npm
+- Yarn
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=No767&count_private=true&show_icons=true&theme=synthwave)
 

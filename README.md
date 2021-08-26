@@ -9,6 +9,7 @@ I spend my free time coding and contributing to open source projects. Mainly wor
 - Python
 - HTML
 - CSS
+- SQL
 
 ### Languages Learning Right Now
 
@@ -24,6 +25,15 @@ I spend my free time coding and contributing to open source projects. Mainly wor
 
 - Django 
 - Bootstrap
+
+# Tools that I use
+
+- VS Code (Python/HTML/CSS/General Use)
+- PyCharm Professorial
+- IntelliJ IDEA Ulimate
+- DataGrip
+- Docker
+- Nginx
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=No767&count_private=true&show_icons=true&theme=synthwave)
 

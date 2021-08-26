@@ -29,7 +29,7 @@ I spend my free time coding and contributing to open source projects. Mainly wor
 ### Tools that I use
 
 - VS Code (Python/HTML/CSS/General Use)
-- PyCharm Professorial
+- PyCharm Professional
 - IntelliJ IDEA Ulimate
 - Docker
 - Nginx

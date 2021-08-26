@@ -31,7 +31,6 @@ I spend my free time coding and contributing to open source projects. Mainly wor
 - VS Code (Python/HTML/CSS/General Use)
 - PyCharm Professorial
 - IntelliJ IDEA Ulimate
-- DataGrip
 - Docker
 - Nginx
 

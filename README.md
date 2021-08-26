@@ -35,5 +35,10 @@ I spend my free time coding and contributing to open source projects. Mainly wor
 - Docker
 - Nginx
 
+### Preferred OS
+
+- Server/VM/Docker: Ubuntu or any Linux distro
+- Home/Main PC: Windows 10 Pro
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=No767&count_private=true&show_icons=true&theme=synthwave)
 

@@ -29,6 +29,7 @@ I spend my free time coding and contributing to open source projects. Mainly wor
 ### Tools that I use
 
 - VS Code (Python/HTML/CSS/General Use)
+- Visual Studio 2019 Community (SQL)
 - PyCharm Professional
 - IntelliJ IDEA Ulimate
 - Docker
@@ -36,7 +37,7 @@ I spend my free time coding and contributing to open source projects. Mainly wor
 
 ### Preferred OS
 
-- Server/VM/Docker: Ubuntu or any Linux distro
+- Server/VM/Docker: Ubuntu
 - Home/Main PC: Windows 10 Pro
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=No767&count_private=true&show_icons=true&theme=synthwave)

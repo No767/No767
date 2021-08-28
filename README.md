@@ -25,6 +25,7 @@ I spend my free time coding and contributing to open source projects. Mainly wor
 
 - Django 
 - Bootstrap
+- Tailwind CSS (Learning)
 
 ### Tools that I use
 

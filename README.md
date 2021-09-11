@@ -45,7 +45,7 @@ I spend my free time coding and contributing to open source projects. Mainly wor
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=No767&count_private=true&show_icons=true&theme=synthwave)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=No767&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=No767&layout=compact&theme=synthwave&custom_title=Top%20Lanugages%20Used)](https://github.com/anuraghazra/github-readme-stats)
 
 
 

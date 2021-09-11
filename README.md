@@ -43,6 +43,8 @@ I spend my free time coding and contributing to open source projects. Mainly wor
 - Home/Main PC: Windows 10 Pro
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=No767&count_private=true&show_icons=true&theme=synthwave)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=No767&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 

@@ -15,26 +15,22 @@ I spend my free time coding and contributing to open source projects. Mainly wor
 
 ### Planned Languages to Learn
 
-- JavaScript
-- C++
+![JavaScript](https://img.shields.io/badge/-JavaScript-141414?style=flat&logo=javascript)
+![C++](https://img.shields.io/badge/-C++-141414?style=flat&logo=c%2B%2B)
 
-### Frameworks
+### Tools and Tech that I use
 
-- Django 
-- Bootstrap
-- Tailwind CSS (Learning)
-
-### Tools ad Tech that I use
-
-- VS Code (Python/HTML/CSS/General Use)
-- Visual Studio 2019 Community (SQL)
-- PyCharm Professional
-- IntelliJ IDEA Ulimate
-- DataGrip
-- Vim
-- NeoVim
-- Docker
-- Nginx
+![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-141414?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-141414?style=flat&logo=visual-studio)
+![PyCharm](https://img.shields.io/badge/-PyCharm-141414?style=flat&logo=pycharm)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-141414?style=flat&logo=intellij%20idea)
+![Vim](https://img.shields.io/badge/-Vim-141414?style=flat&logo=vim)
+![NeoVim](https://img.shields.io/badge/-NeoVim-141414?style=flat&logo=neovim)
+![Docker](https://img.shields.io/badge/-Docker-141414?style=flat&logo=docker)
+![Nginx](https://img.shields.io/badge/-Nginx-141414?style=flat&logo=nginx)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-141414?style=flat&logo=bootstrap)
+![TailWind CSS](https://img.shields.io/badge/-Tailwind%20CSS-141414?style=flat&logo=tailwindcss)
+![Django](https://img.shields.io/badge/-Django-141414?style=flat&logo=django)
 
 ### Preferred OS
 

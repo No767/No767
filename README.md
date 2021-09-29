@@ -31,12 +31,10 @@ I spend my free time coding and contributing to open source projects. Mainly wor
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-141414?style=flat&logo=bootstrap)
 ![TailWind CSS](https://img.shields.io/badge/-Tailwind%20CSS-141414?style=flat&logo=tailwindcss)
 ![Django](https://img.shields.io/badge/-Django-141414?style=flat&logo=django)
-
-### Preferred OS
-
-- Server/VM/Docker: Ubuntu 20.04 LTS
-- Terminal: Bash and Cmd Prompt
-- Home/Main PC: Windows 10 Pro
+![Bash](https://img.shields.io/badge/-Bash-141414?style=flat&logo=gnubash)
+![Windows Terminal](https://img.shields.io/badge/-Windows%20Terminal-141414?style=flat&logo=windows%20terminal)
+![Windows](https://img.shields.io/badge/-Windows-141414?style=flat&logo=windows)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-141414?style=flat&logo=ubuntu)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=No767&count_private=true&show_icons=true&theme=synthwave)
 

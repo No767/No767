@@ -44,6 +44,8 @@ I spend my free time coding and contributing to open source projects. Mainly wor
 ![Yarn](https://img.shields.io/badge/-Yarn-141414?style=flat&logo=yarn)
 ![MySQL](https://img.shields.io/badge/-MySQL-141414?style=flat&logo=mysql)
 ![Gradle](https://img.shields.io/badge/-Gradle-141414?style=flat&logo=gradle)
+![Sublime](https://img.shields.io/badge/-Sublime-141414?style=flat&logo=sublimetext)
+![Krita](https://img.shields.io/badge/-Krita-141414?style=flat&logo=krita&logoColor=white)
 
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=No767&count_private=true&show_icons=true&theme=synthwave)

@@ -43,6 +43,7 @@ I spend my free time coding and contributing to open source projects. Mainly wor
 ![npm](https://img.shields.io/badge/-npm-141414?style=flat&logo=npm)
 ![Yarn](https://img.shields.io/badge/-Yarn-141414?style=flat&logo=yarn)
 ![MySQL](https://img.shields.io/badge/-MySQL-141414?style=flat&logo=mysql)
+![Gradle](https://img.shields.io/badge/-Gradle-141414?style=flat&logo=gradle)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=No767&count_private=true&show_icons=true&theme=synthwave)
 

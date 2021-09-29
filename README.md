@@ -1,5 +1,3 @@
-<div align=center>
-  
 ### Hey there, I'm Noelle - aka No767
 
 she/her/they/them | Student Developer | Owner of the Dcey SMP Network | Member of the Robotics Eagle (Team 5507)

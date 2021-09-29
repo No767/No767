@@ -35,11 +35,13 @@ I spend my free time coding and contributing to open source projects. Mainly wor
 ![Windows Terminal](https://img.shields.io/badge/-Windows%20Terminal-141414?style=flat&logo=windows%20terminal)
 ![Windows](https://img.shields.io/badge/-Windows-141414?style=flat&logo=windows)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-141414?style=flat&logo=ubuntu)
+![Github](https://img.shields.io/badge/-Github-141414?style=flat&logo=github)
+![Git](https://img.shields.io/badge/-Git-141414?style=flat&logo=git)
+![Github Actions](https://img.shields.io/badge/-Github%20Actions-141414?style=flat&logo=github-actions)
+![Travis CI](https://img.shields.io/badge/-Travis%20CI-141414?style=flat&logo=travisci)
+![Jenkins](https://img.shields.io/badge/-Jenkins-141414?style=flat&logo=jenkins)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=No767&count_private=true&show_icons=true&theme=synthwave)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=No767&layout=compact&theme=synthwave&custom_title=Top%20Lanugages%20Used)](https://github.com/anuraghazra/github-readme-stats)
 
 
 

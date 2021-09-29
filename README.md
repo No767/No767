@@ -40,6 +40,8 @@ I spend my free time coding and contributing to open source projects. Mainly wor
 ![Github Actions](https://img.shields.io/badge/-Github%20Actions-141414?style=flat&logo=github-actions)
 ![Travis CI](https://img.shields.io/badge/-Travis%20CI-141414?style=flat&logo=travisci)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-141414?style=flat&logo=jenkins&logoColor=FFFFFF)
+![npm](https://img.shields.io/badge/-npm-141414?style=flat&logo=npm)
+![Yarn](https://img.shields.io/badge/-Yarn-141414?style=flat&logo=yarn)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=No767&count_private=true&show_icons=true&theme=synthwave)
 

@@ -4,17 +4,14 @@ she/her/they/them | Student Developer | Owner of the Dcey SMP Network | Member o
 
 I spend my free time coding and contributing to open source projects. Mainly working in Python, but starting to learn Java
 
-### Languages Learned So Far
+### Languages That I Use and Currently Learning
 
-- Python
-- HTML
-- CSS
-- SQL
-
-### Languages Learning Right Now
-
-- Java
-- Kotlin
+![Python](https://img.shields.io/badge/-Python-141414?style=flat&logo=python)
+![HTML](https://img.shields.io/badge/-HTML-141414?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-141414?style=flat&logo=css3)
+![SQL](https://img.shields.io/badge/-SQL-141414?style=flat&logo=mysql)
+![Java](https://img.shields.io/badge/-Java-141414?style=flat&logo=java)
+![Kotlin](https://img.shields.io/badge/-Kotlin-141414?style=flat&logo=kotlin)
 
 ### Planned Languages to Learn
 
@@ -27,7 +24,7 @@ I spend my free time coding and contributing to open source projects. Mainly wor
 - Bootstrap
 - Tailwind CSS (Learning)
 
-### Tools that I use
+### Tools ad Tech that I use
 
 - VS Code (Python/HTML/CSS/General Use)
 - Visual Studio 2019 Community (SQL)

@@ -47,6 +47,7 @@ I spend my free time coding and contributing to open source projects. Mainly wor
 ![MySQL](https://img.shields.io/badge/-MySQL-141414?style=flat&logo=mysql)
 ![Gradle](https://img.shields.io/badge/-Gradle-141414?style=flat&logo=gradle)
 ![Sublime](https://img.shields.io/badge/-Sublime-141414?style=flat&logo=sublimetext)
+![Atom](https://img.shields.io/badge/-Atom-141414?style=flat&logo=atom)
 ![Krita](https://img.shields.io/badge/-Krita-141414?style=flat&logo=krita&logoColor=white)
 
   

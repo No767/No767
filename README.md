@@ -28,6 +28,8 @@ I spend my free time coding and contributing to open source projects. Mainly wor
 ![NeoVim](https://img.shields.io/badge/-NeoVim-141414?style=flat&logo=neovim)
 ![Docker](https://img.shields.io/badge/-Docker-141414?style=flat&logo=docker)
 ![Nginx](https://img.shields.io/badge/-Nginx-141414?style=flat&logo=nginx)
+![Apache](https://img.shields.io/badge/-Apache-141414?style=flat&logo=apache)
+![Apache Maven](https://img.shields.io/badge/-Apache%20Maven-141414?style=flat&logo=apachemaven)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-141414?style=flat&logo=bootstrap)
 ![TailWind CSS](https://img.shields.io/badge/-Tailwind%20CSS-141414?style=flat&logo=tailwindcss)
 ![Django](https://img.shields.io/badge/-Django-141414?style=flat&logo=django)

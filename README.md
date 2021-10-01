@@ -9,7 +9,7 @@ I spend my free time coding and contributing to open source projects. Mainly wor
 ![Python](https://img.shields.io/badge/-Python-141414?style=flat&logo=python)
 ![HTML](https://img.shields.io/badge/-HTML-141414?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-141414?style=flat&logo=css3)
-![SQL](https://img.shields.io/badge/-SQL-141414?style=flat&logo=mysql)
+![SQL](https://img.shields.io/badge/-SQL-141414?style=flat&logo=postgresql)
 ![Java](https://img.shields.io/badge/-Java-141414?style=flat&logo=java)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-141414?style=flat&logo=kotlin)
 

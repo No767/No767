@@ -16,6 +16,7 @@ I spend my free time coding and contributing to open source projects. Mainly wor
 ### Planned Languages to Learn
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-141414?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-141414?style=flat&logo=typescript)
 ![C++](https://img.shields.io/badge/-C++-141414?style=flat&logo=c%2B%2B)
 
 ### Tools and Tech that I use

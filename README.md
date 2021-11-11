@@ -1,6 +1,6 @@
 ### Hey there, I'm Noelle - aka No767
 
-she/her/they/them | Student Developer | Owner of the Dcey SMP Network | Member of the Robotics Eagle (Team 5507)
+she/her/they/them | Student Developer | Member of the Robotics Eagle (Team 5507)
 
 I spend my free time coding and contributing to open source projects. Mainly working in Python, but starting to learn Java
 
@@ -12,10 +12,10 @@ I spend my free time coding and contributing to open source projects. Mainly wor
 ![SQL](https://img.shields.io/badge/-SQL-141414?style=flat&logo=postgresql)
 ![Java](https://img.shields.io/badge/-Java-141414?style=flat&logo=java)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-141414?style=flat&logo=kotlin)
+![JavaScript](https://img.shields.io/badge/-JavaScript-141414?style=flat&logo=javascript)
 
 ### Planned Languages to Learn
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-141414?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-141414?style=flat&logo=typescript)
 ![C++](https://img.shields.io/badge/-C++-141414?style=flat&logo=c%2B%2B)
 

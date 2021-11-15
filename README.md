@@ -18,6 +18,8 @@ I spend my free time coding and contributing to open source projects. Mainly wor
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-141414?style=flat&logo=typescript)
 ![C++](https://img.shields.io/badge/-C++-141414?style=flat&logo=c%2B%2B)
+![Go](https://img.shields.io/badge/-Go-141414?style=flat&logo=go)
+![Rust](https://img.shields.io/badge/-Rust-141414?style=flat&logo=rust)
 
 ### Tools and Tech that I use
 

@@ -4,6 +4,8 @@ she/her/they/them | Student Developer | Member of the Robotics Eagle (Team 5507)
 
 I spend my free time coding and contributing to open source projects. Mainly working in Python, but starting to learn Java
 
+Currently working on [Rin](https://github.com/No767/Rin)
+
 ### Languages That I Use and Currently Learning
 
 ![Python](https://img.shields.io/badge/-Python-141414?style=flat&logo=python)

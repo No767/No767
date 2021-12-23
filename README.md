@@ -60,8 +60,6 @@ Currently working on [Rin](https://github.com/No767/Rin)
  
 <a href="https://github.com/No767">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=No767&count_private=true&show_icons=true&theme=synthwave" />
-</a>
-
-<a href="https://github.com/No767">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=No767&hide=css,html" />
 </a>
+

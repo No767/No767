@@ -57,8 +57,10 @@ Currently working on [Rin](https://github.com/No767/Rin)
 [![Atom](https://img.shields.io/badge/-Atom-141414?style=flat&logo=atom)](https://atom.io)
 [![Krita](https://img.shields.io/badge/-Krita-141414?style=flat&logo=krita&logoColor=white)](https://krita.org/en)
 
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=No767&count_private=true&show_icons=true&theme=synthwave)
-
-
-
+ 
+<a href="https://github.com/No767">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=No767&count_private=true&show_icons=true&theme=synthwave" />
+</a>
+<a href="https://github.com/No767">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=No767&hide=css,html" />
+</a>

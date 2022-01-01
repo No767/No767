@@ -1,8 +1,8 @@
-### Hey there, I'm Noelle - aka No767
+### Hey there, I'm Noelle
 
-she/her/they/them | Student Developer | Member of the Robotics Eagle (Team 5507)
+she/they | Student Developer | Member of the Robotics Eagle (Team 5507)
 
-I spend my free time coding and contributing to open source projects. Mainly working in Python, but starting to learn Java
+I spend my free time coding and contributing to open source projects. 
 
 Currently working on [Rin](https://github.com/No767/Rin)
 
@@ -62,4 +62,3 @@ Currently working on [Rin](https://github.com/No767/Rin)
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=No767&count_private=true&show_icons=true&theme=synthwave" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=No767&hide=css,html" />
 </a>
-

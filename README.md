@@ -1,11 +1,11 @@
 ### Hey there, I'm Noelle
+ 
+she/they | Student Developer | Core Maintainer of [Rin](https://github.com/No767/Rin) and [Kumiko](https://github.com/No767/Kumiko)
 
-she/they | Student Developer | Member of the Robotics Eagle (Team 5507)
 
-I spend my free time coding and contributing to open source projects. 
+I'm a Python + Java + JS Developer (mostly Python these days), and I spend my free time working on [Rin](https://github.com/No767/Rin) and [Kumiko](https://github.com/No767/Kumiko). I also contribute to open-source projects as well.
 
-Currently working on [Rin](https://github.com/No767/Rin)
-
+--- 
 ### Languages That I Use and Currently Learning
 
 [![Python](https://img.shields.io/badge/-Python-141414?style=flat&logo=python)](https://www.python.org/)

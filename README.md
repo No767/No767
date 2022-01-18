@@ -58,8 +58,13 @@ I'm a Python + Java + JS Developer (mostly Python these days), and I spend my fr
 [![Atom](https://img.shields.io/badge/-Atom-141414?style=flat&logo=atom)](https://atom.io)
 [![Krita](https://img.shields.io/badge/-Krita-141414?style=flat&logo=krita&logoColor=white)](https://krita.org/en)
 
- 
+---
 <a href="https://github.com/No767">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=No767&count_private=true&show_icons=true&theme=synthwave" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=No767&hide=css,html" />
+</a>
+
+---
+
+<a href="https://github.com/No767">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?&username=No767&hide=css,html" />
 </a>

@@ -51,6 +51,7 @@ I'm a Python + Java + JS Developer (mostly Python these days), and I spend my fr
 [![Github Actions](https://img.shields.io/badge/-Github%20Actions-141414?style=flat&logo=github-actions)](https://github.com/features/actions)
 [![npm](https://img.shields.io/badge/-npm-141414?style=flat&logo=npm)](https://www.npmjs.com/)
 [![Yarn](https://img.shields.io/badge/-Yarn-141414?style=flat&logo=yarn)](https://yarnpkg.com/)
+[![Vite](https://img.shields.io/badge/-Vite-141414?style=flat&logo=vite)](https://vitejs.dev/)
 [![MySQL](https://img.shields.io/badge/-MySQL-141414?style=flat&logo=mysql&logoColor=FFFFFF)](https://www.mysql.com/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-141414?style=flat&logo=postgresql&logoColor=FFFFFF)](https://www.postgresql.org/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-141414?style=flat&logo=mongodb)](https://www.mongodb.com/)

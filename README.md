@@ -41,6 +41,7 @@ I'm a Python + Java + JS Developer (mostly Python these days), and I spend my fr
 [![Django](https://img.shields.io/badge/-Django-141414?style=flat&logo=django)](https://djangoproject.com)
 [![Flask](https://img.shields.io/badge/-Flask-141414?style=flat&logo=flask)](https://flask.palletsprojects.com/en/2.0.x/)
 [![React](https://img.shields.io/badge/-React-141414?style=flat&logo=react)](https://reactjs.org)
+[![Next.js](https://img.shields.io/badge/-Next.js-141414?style=flat&logo=next.js)](https://nextjs.org/org)
 [![Bash](https://img.shields.io/badge/-Bash-141414?style=flat&logo=gnubash)](https://www.gnu.org/software/bash/)
 [![Node.js](https://img.shields.io/badge/-Node.js-141414?style=flat&logo=node.js)](https://nodejs.org/en/)
 [![Windows Terminal](https://img.shields.io/badge/-Windows%20Terminal-141414?style=flat&logo=windows%20terminal)](https://github.com/microsoft/terminal)

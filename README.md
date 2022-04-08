@@ -6,23 +6,24 @@ she/they | Student Developer | Core Maintainer of [Rin](https://github.com/No767
 I'm a Python + Java + JS Developer (mostly Python these days), and I spend my free time working on [Rin](https://github.com/No767/Rin) and [Kumiko](https://github.com/No767/Kumiko). I also contribute to open-source projects as well.
 
 --- 
-### Languages That I Use and Currently Learning
+### Languages That I Use and is currently learning
 
 [![Python](https://img.shields.io/badge/-Python-141414?style=flat&logo=python)](https://www.python.org/)
 ![HTML](https://img.shields.io/badge/-HTML-141414?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-141414?style=flat&logo=css3)
 ![SQL](https://img.shields.io/badge/-SQL-141414?style=flat&logo=postgresql)
 [![Java](https://img.shields.io/badge/-Java-141414?style=flat&logo=java)](https://adoptium.net/)
-[![Kotlin](https://img.shields.io/badge/-Kotlin-141414?style=flat&logo=kotlin)](https://kotlinlang.org/)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-141414?style=flat&logo=javascript)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-141414?style=flat&logo=typescript)](https://www.typescriptlang.org/)
 
 ### Planned Languages to Learn
 
-[![TypeScript](https://img.shields.io/badge/-TypeScript-141414?style=flat&logo=typescript)](https://www.typescriptlang.org/)
+![C](https://img.shields.io/badge/-C-141414?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-141414?style=flat&logo=c%2B%2B)
 [![Go](https://img.shields.io/badge/-Go-141414?style=flat&logo=go)](https://go.dev/)
 [![Rust](https://img.shields.io/badge/-Rust-141414?style=flat&logo=rust)](https://www.rust-lang.org/)
 [![C#](https://img.shields.io/badge/-C%23-141414?style=flat&logo=csharp)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![Kotlin](https://img.shields.io/badge/-Kotlin-141414?style=flat&logo=kotlin)](https://kotlinlang.org/)
 
 ### Tools and Tech that I use
 

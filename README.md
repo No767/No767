@@ -1,9 +1,8 @@
 ### Hey there, I'm Noelle
  
-she/they | Student Developer | Core Maintainer of [Rin](https://github.com/No767/Rin) and [Kumiko](https://github.com/No767/Kumiko)
+she/they | Open Source Software Developer | Core Maintainer of [Rin](https://github.com/No767/Rin) and [Kumiko](https://github.com/No767/Kumiko)
 
-
-I'm a Python + Java + JS Developer (mostly Python these days), and I spend my free time working on [Rin](https://github.com/No767/Rin) and [Kumiko](https://github.com/No767/Kumiko). I also contribute to open-source projects as well.
+Hii, I'm mostly a Python + JS developer. I'm also a full stack web + discord bot developer
 
 --- 
 ### Languages That I Use and is currently learning

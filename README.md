@@ -58,6 +58,7 @@ I'm a Python + Java + JS Developer (mostly Python these days), and I spend my fr
 [![Git](https://img.shields.io/badge/-Git-141414?style=flat&logo=git)](https://git-scm.com/)
 [![Github Actions](https://img.shields.io/badge/-Github%20Actions-141414?style=flat&logo=github-actions)](https://github.com/features/actions)
 [![Nginx](https://img.shields.io/badge/-LLVM-141414?style=flat&logo=llvm)](https://nginx.org/)
+[![Nginx](https://img.shields.io/badge/-GCC-141414?style=flat&logo=gnu)](https://nginx.org/)
 [![npm](https://img.shields.io/badge/-npm-141414?style=flat&logo=npm)](https://www.npmjs.com/)
 [![Yarn](https://img.shields.io/badge/-Yarn-141414?style=flat&logo=yarn)](https://yarnpkg.com/)
 [![Vite](https://img.shields.io/badge/-Vite-141414?style=flat&logo=vite)](https://vitejs.dev/)

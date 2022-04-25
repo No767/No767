@@ -53,6 +53,7 @@ Hii, I'm mostly a Python + JS developer. I'm also a full stack web + discord bot
 [![OpenSUSE](https://img.shields.io/badge/-OpenSUSE-141414?style=flat&logo=opensuse)](https://ubuntu.com/)
 [![Fedora](https://img.shields.io/badge/-Fedora-141414?style=flat&logo=fedora)](https://ubuntu.com/)
 [![Fedora](https://img.shields.io/badge/-PopOS-141414?style=flat&logo=popos)](https://ubuntu.com/)
+[![Fedora](https://img.shields.io/badge/-Arch-141414?style=flat&logo=archlinux)](https://ubuntu.com/)
 [![Github](https://img.shields.io/badge/-Github-141414?style=flat&logo=github)](https://github.com)
 [![Git](https://img.shields.io/badge/-Git-141414?style=flat&logo=git)](https://git-scm.com/)
 [![Github Actions](https://img.shields.io/badge/-Github%20Actions-141414?style=flat&logo=github-actions)](https://github.com/features/actions)

@@ -64,6 +64,7 @@ Hii, I'm mostly a Python + JS developer. I'm also a full stack web + discord bot
 [![MySQL](https://img.shields.io/badge/-MySQL-141414?style=flat&logo=mysql&logoColor=FFFFFF)](https://www.mysql.com/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-141414?style=flat&logo=postgresql&logoColor=FFFFFF)](https://www.postgresql.org/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-141414?style=flat&logo=mongodb)](https://www.mongodb.com/)
+[![Redis](https://img.shields.io/badge/-Redis-141414?style=flat&logo=redis)](https://www.postgresql.org/)
 [![Gradle](https://img.shields.io/badge/-Gradle-141414?style=flat&logo=gradle)](https://gradle.org/)
 [![Sublime](https://img.shields.io/badge/-Sublime-141414?style=flat&logo=sublimetext)](https://www.sublimetext.com/)
 [![Atom](https://img.shields.io/badge/-Atom-141414?style=flat&logo=atom)](https://atom.io)

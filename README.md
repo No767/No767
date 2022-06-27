@@ -2,7 +2,7 @@
  
 she/they | Open Source Software Developer | Core Maintainer of [Rin](https://github.com/No767/Rin) and [Kumiko](https://github.com/No767/Kumiko)
 
-Hii, I'm mostly a Python + JS developer. I'm also a full stack web + discord bot developer
+Hii, I'm mostly a Python + TS + Java developer. I'm also a full stack web + discord bot developer
 
 --- 
 ### Languages That I Use and is currently learning
@@ -11,18 +11,19 @@ Hii, I'm mostly a Python + JS developer. I'm also a full stack web + discord bot
 ![HTML](https://img.shields.io/badge/-HTML-141414?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-141414?style=flat&logo=css3)
 ![SQL](https://img.shields.io/badge/-SQL-141414?style=flat&logo=postgresql)
-[![Java](https://img.shields.io/badge/-Java-141414?style=flat&logo=java)](https://adoptium.net/)
-![JavaScript](https://img.shields.io/badge/-JavaScript-141414?style=flat&logo=javascript)
+[![Java](https://img.shields.io/badge/-Java-141414?style=flat&logo=openjdk)](https://adoptium.net/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-141414?style=flat&logo=javascript)](https://www.javascript.com/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-141414?style=flat&logo=typescript)](https://www.typescriptlang.org/)
-![C](https://img.shields.io/badge/-C-141414?style=flat&logo=c)
 
 ### Planned Languages to Learn
 
+![C](https://img.shields.io/badge/-C-141414?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-141414?style=flat&logo=c%2B%2B)
 [![Go](https://img.shields.io/badge/-Go-141414?style=flat&logo=go)](https://go.dev/)
 [![Rust](https://img.shields.io/badge/-Rust-141414?style=flat&logo=rust)](https://www.rust-lang.org/)
 [![C#](https://img.shields.io/badge/-C%23-141414?style=flat&logo=csharp)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![Kotlin](https://img.shields.io/badge/-Kotlin-141414?style=flat&logo=kotlin)](https://kotlinlang.org/)
+
 
 ### Linux Distros that I know and use
 [![Debian](https://img.shields.io/badge/-Debian-141414?style=flat&logo=debian)](https://www.debian.org/)
@@ -50,6 +51,13 @@ Hii, I'm mostly a Python + JS developer. I'm also a full stack web + discord bot
 [![Next.js](https://img.shields.io/badge/-Next.js-141414?style=flat&logo=nextdotjs)](https://nextjs.org/org)
 [![Remix](https://img.shields.io/badge/-Remix-141414?style=flat&logo=remix)](https://remix.run)
 
+### Databases I know and use
+[![MySQL](https://img.shields.io/badge/-MySQL-141414?style=flat&logo=mysql&logoColor=FFFFFF)](https://www.mysql.com/)
+[![MariaDB](https://img.shields.io/badge/-MariaDB-141414?style=flat&logo=mariadb&logoColor=FFFFFF)](https://mariadb.org/)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-141414?style=flat&logo=postgresql&logoColor=FFFFFF)](https://www.postgresql.org/)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-141414?style=flat&logo=mongodb)](https://www.mongodb.com/)
+[![Redis](https://img.shields.io/badge/-Redis-141414?style=flat&logo=redis)](https://www.postgresql.org/)
+
 ### Tools and Tech that I use
 
 [![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-141414?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://code.visualstudio.com/)
@@ -63,7 +71,6 @@ Hii, I'm mostly a Python + JS developer. I'm also a full stack web + discord bot
 [![Docker](https://img.shields.io/badge/-Docker-141414?style=flat&logo=docker)](https://docker.com)
 [![Nginx](https://img.shields.io/badge/-Nginx-141414?style=flat&logo=nginx)](https://nginx.org/)
 [![Bash](https://img.shields.io/badge/-Bash-141414?style=flat&logo=gnubash)](https://www.gnu.org/software/bash/)
-[![Node.js](https://img.shields.io/badge/-Node.js-141414?style=flat&logo=node.js)](https://nodejs.org/en/)
 [![Windows Terminal](https://img.shields.io/badge/-Windows%20Terminal-141414?style=flat&logo=windows%20terminal)](https://github.com/microsoft/terminal)
 [![Alacritty](https://img.shields.io/badge/-Alacritty-141414?style=flat&logo=alacritty)](https://github.com/alacritty/alacritty)
 [![Windows](https://img.shields.io/badge/-Windows-141414?style=flat&logo=windows)](https://www.microsoft.com/en-us/windows/)
@@ -75,10 +82,6 @@ Hii, I'm mostly a Python + JS developer. I'm also a full stack web + discord bot
 [![pnpm](https://img.shields.io/badge/-pnpm-141414?style=flat&logo=pnpm)](https://pnpm.io/)
 [![Yarn](https://img.shields.io/badge/-Yarn-141414?style=flat&logo=yarn)](https://yarnpkg.com/)
 [![Vite](https://img.shields.io/badge/-Vite-141414?style=flat&logo=vite)](https://vitejs.dev/)
-[![MySQL](https://img.shields.io/badge/-MySQL-141414?style=flat&logo=mysql&logoColor=FFFFFF)](https://www.mysql.com/)
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-141414?style=flat&logo=postgresql&logoColor=FFFFFF)](https://www.postgresql.org/)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-141414?style=flat&logo=mongodb)](https://www.mongodb.com/)
-[![Redis](https://img.shields.io/badge/-Redis-141414?style=flat&logo=redis)](https://www.postgresql.org/)
 [![Gradle](https://img.shields.io/badge/-Gradle-141414?style=flat&logo=gradle)](https://gradle.org/)
 [![Sublime](https://img.shields.io/badge/-Sublime-141414?style=flat&logo=sublimetext)](https://www.sublimetext.com/)
 [![Atom](https://img.shields.io/badge/-Atom-141414?style=flat&logo=atom)](https://atom.io)

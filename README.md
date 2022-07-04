@@ -8,12 +8,12 @@ Hii, I'm mostly a Python + TS + Java developer. I'm also a full stack web + disc
 ### Languages That I Use and is currently learning
 
 [![Python](https://img.shields.io/badge/-Python-141414?style=flat&logo=python)](https://www.python.org/)
-![HTML](https://img.shields.io/badge/-HTML-141414?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-141414?style=flat&logo=css3)
-![SQL](https://img.shields.io/badge/-SQL-141414?style=flat&logo=postgresql)
 [![Java](https://img.shields.io/badge/-Java-141414?style=flat&logo=openjdk)](https://adoptium.net/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-141414?style=flat&logo=javascript)](https://www.javascript.com/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-141414?style=flat&logo=typescript)](https://www.typescriptlang.org/)
+![HTML](https://img.shields.io/badge/-HTML-141414?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-141414?style=flat&logo=css3)
+![SQL](https://img.shields.io/badge/-SQL-141414?style=flat&logo=postgresql)
 
 ### Planned Languages to Learn
 
@@ -32,6 +32,7 @@ Hii, I'm mostly a Python + TS + Java developer. I'm also a full stack web + disc
 [![CentOS](https://img.shields.io/badge/-CentOS-141414?style=flat&logo=centos)](https://www.centos.org/)
 [![Fedora](https://img.shields.io/badge/-Fedora-141414?style=flat&logo=fedora)](https://getfedora.org/)
 [![PopOS](https://img.shields.io/badge/-PopOS-141414?style=flat&logo=popos)](https://pop.system76.com/)
+[![Linux Mint](https://img.shields.io/badge/-Linux%20Mint-141414?style=flat&logo=linux%20mint)](https://linuxmint.com/)
 [![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-141414?style=flat&logo=kalilinux)](https://www.kali.org/)
 [![Arch Linux](https://img.shields.io/badge/-Arch-141414?style=flat&logo=archlinux)](https://archlinux.org/)
 [![Gentoo](https://img.shields.io/badge/-Gentoo-141414?style=flat&logo=gentoo)](https://www.gentoo.org/)
@@ -56,7 +57,7 @@ Hii, I'm mostly a Python + TS + Java developer. I'm also a full stack web + disc
 [![MariaDB](https://img.shields.io/badge/-MariaDB-141414?style=flat&logo=mariadb&logoColor=FFFFFF)](https://mariadb.org/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-141414?style=flat&logo=postgresql&logoColor=FFFFFF)](https://www.postgresql.org/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-141414?style=flat&logo=mongodb)](https://www.mongodb.com/)
-[![Redis](https://img.shields.io/badge/-Redis-141414?style=flat&logo=redis)](https://www.postgresql.org/)
+[![Redis](https://img.shields.io/badge/-Redis-141414?style=flat&logo=redis)](https://redis.io/)
 
 ### Tools and Tech that I use
 
@@ -78,6 +79,7 @@ Hii, I'm mostly a Python + TS + Java developer. I'm also a full stack web + disc
 [![Git](https://img.shields.io/badge/-Git-141414?style=flat&logo=git)](https://git-scm.com/)
 [![Github Actions](https://img.shields.io/badge/-Github%20Actions-141414?style=flat&logo=github-actions)](https://github.com/features/actions)
 [![GNU GCC](https://img.shields.io/badge/-GCC-141414?style=flat&logo=gnu)](https://gcc.gnu.org/)
+[![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-141414?style=flat&logo=rabbitmq)](https://www.rabbitmq.com/)
 [![npm](https://img.shields.io/badge/-npm-141414?style=flat&logo=npm)](https://www.npmjs.com/)
 [![pnpm](https://img.shields.io/badge/-pnpm-141414?style=flat&logo=pnpm)](https://pnpm.io/)
 [![Yarn](https://img.shields.io/badge/-Yarn-141414?style=flat&logo=yarn)](https://yarnpkg.com/)
@@ -86,6 +88,7 @@ Hii, I'm mostly a Python + TS + Java developer. I'm also a full stack web + disc
 [![Sublime](https://img.shields.io/badge/-Sublime-141414?style=flat&logo=sublimetext)](https://www.sublimetext.com/)
 [![Atom](https://img.shields.io/badge/-Atom-141414?style=flat&logo=atom)](https://atom.io)
 [![Krita](https://img.shields.io/badge/-Krita-141414?style=flat&logo=krita&logoColor=white)](https://krita.org/en)
+[![Figma](https://img.shields.io/badge/-Figma-141414?style=flat&logo=Figma&logoColor=white)](https://figma.com)
 
 ---
 <a href="https://github.com/No767">

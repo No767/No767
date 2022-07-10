@@ -4,8 +4,6 @@ she/they | Open Source Software Developer | Core Maintainer of [Rin](https://git
 
 Hii, I'm a software developer from San Francisco, California. I work on building APIs, working with both SQL and NoSQL databases, and develop Discord bots. I also handle frontend frameworks as well. 
 
---- 
-
 ## Portfolio
 
 ### Languages That I Use and is currently learning

@@ -1,10 +1,13 @@
 ### Hey there, I'm Noelle
  
-she/they | Open Source Software Developer | Core Maintainer of [Rin](https://github.com/No767/Rin) and [Kumiko](https://github.com/No767/Kumiko)
+she/they | Open Source Software Developer | Core Maintainer of [Rin](https://github.com/No767/Rin), [Kumiko](https://github.com/No767/Kumiko) and [Miku](https://github.com/No767/Miku)
 
-Hii, I'm mostly a Python + TS + Java developer. I'm also a full stack web + discord bot developer
+Hii, I'm a software developer from San Francisco, California. I work on building APIs, working with both SQL and NoSQL databases, and develop Discord bots. I also handle frontend frameworks as well. 
 
 --- 
+
+## Portfolio
+
 ### Languages That I Use and is currently learning
 
 [![Python](https://img.shields.io/badge/-Python-141414?style=flat&logo=python)](https://www.python.org/)

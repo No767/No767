@@ -2,7 +2,7 @@
  
 she/they | Open Source Software Developer | Core Maintainer of [Rin](https://github.com/No767/Rin), [Kumiko](https://github.com/No767/Kumiko) and [Miku](https://github.com/No767/Miku)
 
-Hii, I'm a software developer from San Francisco, California. I work on building APIs, working with both SQL and NoSQL databases, and develop Discord bots. I also handle frontend frameworks as well. 
+Hii, I'm a software developer and a student. I work on building APIs, working with both SQL and NoSQL databases, and develop Discord bots. I also handle frontend frameworks as well. 
 
 ## Portfolio
 

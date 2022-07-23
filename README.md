@@ -80,6 +80,8 @@ Hii, I'm a software developer and a student. I work on building APIs, working wi
 [![Git](https://img.shields.io/badge/-Git-141414?style=flat&logo=git)](https://git-scm.com/)
 [![Github Actions](https://img.shields.io/badge/-Github%20Actions-141414?style=flat&logo=github-actions)](https://github.com/features/actions)
 [![GNU GCC](https://img.shields.io/badge/-GCC-141414?style=flat&logo=gnu)](https://gcc.gnu.org/)
+[![Grafana](https://img.shields.io/badge/-Grafana-141414?style=flat&logo=grafana)](https://grafana.com/)
+[![Prometheus](https://img.shields.io/badge/-Prometheus-141414?style=flat&logo=prometheus)](https://prometheus.io/)
 [![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-141414?style=flat&logo=rabbitmq)](https://www.rabbitmq.com/)
 [![npm](https://img.shields.io/badge/-npm-141414?style=flat&logo=npm)](https://www.npmjs.com/)
 [![pnpm](https://img.shields.io/badge/-pnpm-141414?style=flat&logo=pnpm)](https://pnpm.io/)

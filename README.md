@@ -18,12 +18,12 @@ Hii, I'm a software developer and a student. I work on building APIs, working wi
 
 ### Planned Languages to Learn
 
+[![Kotlin](https://img.shields.io/badge/-Kotlin-141414?style=flat&logo=kotlin)](https://kotlinlang.org/)
+[![C#](https://img.shields.io/badge/-C%23-141414?style=flat&logo=csharp)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 ![C](https://img.shields.io/badge/-C-141414?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-141414?style=flat&logo=c%2B%2B)
 [![Go](https://img.shields.io/badge/-Go-141414?style=flat&logo=go)](https://go.dev/)
 [![Rust](https://img.shields.io/badge/-Rust-141414?style=flat&logo=rust)](https://www.rust-lang.org/)
-[![C#](https://img.shields.io/badge/-C%23-141414?style=flat&logo=csharp)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[![Kotlin](https://img.shields.io/badge/-Kotlin-141414?style=flat&logo=kotlin)](https://kotlinlang.org/)
 
 
 ### Linux Distros that I know and use
@@ -52,6 +52,8 @@ Hii, I'm a software developer and a student. I work on building APIs, working wi
 [![React Native](https://img.shields.io/badge/-React%20Native-141414?style=flat&logo=react)](https://reactnative.dev/)
 [![Next.js](https://img.shields.io/badge/-Next.js-141414?style=flat&logo=nextdotjs)](https://nextjs.org/org)
 [![Remix](https://img.shields.io/badge/-Remix-141414?style=flat&logo=remix)](https://remix.run)
+[![Gatsby](https://img.shields.io/badge/-Gatsby-141414?style=flat&logo=gatsby)](https://www.gatsbyjs.com/)
+[![Eclipse Vert.x](https://img.shields.io/badge/-Eclipse%20Vert.x-141414?style=flat&logo=eclipsevertdotx)](https://vertx.io/)
 
 ### Databases I know and use
 [![MySQL](https://img.shields.io/badge/-MySQL-141414?style=flat&logo=mysql&logoColor=FFFFFF)](https://www.mysql.com/)

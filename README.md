@@ -31,6 +31,8 @@ Hii, I'm a software developer and a student. I work on building APIs, working wi
 [![Ubuntu](https://img.shields.io/badge/-Ubuntu-141414?style=flat&logo=ubuntu)](https://ubuntu.com/)
 [![OpenSUSE](https://img.shields.io/badge/-OpenSUSE-141414?style=flat&logo=opensuse)](https://ubuntu.com/)
 [![CentOS](https://img.shields.io/badge/-CentOS-141414?style=flat&logo=centos)](https://www.centos.org/)
+[![Alma Linux](https://img.shields.io/badge/-Alma%20Linux-141414?style=flat&logo=almalinux)](https://almalinux.org/)
+[![Rocky Linux](https://img.shields.io/badge/-Rocky%20Linux-141414?style=flat&logo=rockylinux)](https://rockylinux.org/)
 [![Fedora](https://img.shields.io/badge/-Fedora-141414?style=flat&logo=fedora)](https://getfedora.org/)
 [![PopOS](https://img.shields.io/badge/-PopOS-141414?style=flat&logo=popos)](https://pop.system76.com/)
 [![Linux Mint](https://img.shields.io/badge/-Linux%20Mint-141414?style=flat&logo=linux%20mint)](https://linuxmint.com/)

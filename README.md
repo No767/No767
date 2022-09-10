@@ -36,7 +36,7 @@ Hii, I'm a software developer and a student. I work on building APIs, working wi
 [![Fedora](https://img.shields.io/badge/-Fedora-141414?style=flat&logo=fedora)](https://getfedora.org/)
 [![PopOS](https://img.shields.io/badge/-PopOS-141414?style=flat&logo=popos)](https://pop.system76.com/)
 [![Linux Mint](https://img.shields.io/badge/-Linux%20Mint-141414?style=flat&logo=linux%20mint)](https://linuxmint.com/)
-[![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-141414?style=flat&logo=kalilinux)](https://www.kali.org/)
+[![Alpine Linux](https://img.shields.io/badge/-Alpine%20Linux-141414?style=flat&logo=alpinelinux)](https://www.alpinelinux.org/)
 [![Arch Linux](https://img.shields.io/badge/-Arch-141414?style=flat&logo=archlinux)](https://archlinux.org/)
 [![Gentoo](https://img.shields.io/badge/-Gentoo-141414?style=flat&logo=gentoo)](https://www.gentoo.org/)
 

@@ -1,8 +1,14 @@
 ### Hey there, I'm Noelle
  
+
 she/they | Open Source Software Developer | Core Maintainer of [Rin](https://github.com/No767/Rin), [Kumiko](https://github.com/No767/Kumiko) and [Miku](https://github.com/No767/Miku)
 
 Hii, I'm a software developer and a student. I work on building APIs, working with both SQL and NoSQL databases, and develop Discord bots. I also handle frontend frameworks as well. 
+
+## Stats
+![Profile views](https://komarev.com/ghpvc/?username=No767&color=edb8ff)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=No767&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Portfolio
 

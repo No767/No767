@@ -1,9 +1,8 @@
 ### Hey there, I'm Noelle
- 
 
 she/they | Open Source Software Developer | Core Maintainer of [Rin](https://github.com/No767/Rin), [Kumiko](https://github.com/No767/Kumiko) and [Miku](https://github.com/No767/Miku)
 
-Hii, I'm a software developer and a student. I work on building APIs, working with both SQL and NoSQL databases, and develop Discord bots. I also handle frontend frameworks as well. 
+Hii, I'm a software developer and a student. I work on building APIs, working with both SQL and NoSQL databases, and develop Discord bots. I also handle frontend frameworks as well. I'm a full stack web developer, working with frameworks from React, and Next.js to backend frameworks like Spring, Django, Fiber, and many more.
 
 ## Stats
 ![Profile views](https://komarev.com/ghpvc/?username=No767&color=edb8ff)
@@ -12,7 +11,7 @@ Hii, I'm a software developer and a student. I work on building APIs, working wi
 
 ## Portfolio
 
-### Languages That I Use and is currently learning
+### Languages That I Currently Use
 
 [![Python](https://img.shields.io/badge/-Python-141414?style=flat&logo=python)](https://www.python.org/)
 [![Java](https://img.shields.io/badge/-Java-141414?style=flat&logo=openjdk)](https://adoptium.net/)
@@ -22,15 +21,17 @@ Hii, I'm a software developer and a student. I work on building APIs, working wi
 ![CSS](https://img.shields.io/badge/-CSS-141414?style=flat&logo=css3)
 ![SQL](https://img.shields.io/badge/-SQL-141414?style=flat&logo=postgresql)
 
+### Languages that either I am learning or have started
+
+[![Go](https://img.shields.io/badge/-Go-141414?style=flat&logo=go)](https://go.dev/)
+
 ### Planned Languages to Learn
 
 [![Kotlin](https://img.shields.io/badge/-Kotlin-141414?style=flat&logo=kotlin)](https://kotlinlang.org/)
 [![C#](https://img.shields.io/badge/-C%23-141414?style=flat&logo=csharp)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 ![C](https://img.shields.io/badge/-C-141414?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-141414?style=flat&logo=c%2B%2B)
-[![Go](https://img.shields.io/badge/-Go-141414?style=flat&logo=go)](https://go.dev/)
 [![Rust](https://img.shields.io/badge/-Rust-141414?style=flat&logo=rust)](https://www.rust-lang.org/)
-
 
 ### Linux Distros that I know and use
 [![Debian](https://img.shields.io/badge/-Debian-141414?style=flat&logo=debian)](https://www.debian.org/)
@@ -61,6 +62,7 @@ Hii, I'm a software developer and a student. I work on building APIs, working wi
 [![Next.js](https://img.shields.io/badge/-Next.js-141414?style=flat&logo=nextdotjs)](https://nextjs.org/org)
 [![Remix](https://img.shields.io/badge/-Remix-141414?style=flat&logo=remix)](https://remix.run)
 [![Gatsby](https://img.shields.io/badge/-Gatsby-141414?style=flat&logo=gatsby)](https://www.gatsbyjs.com/)
+[![React Query](https://img.shields.io/badge/-React%20Query-141414?style=flat&logo=reactquery)](https://tanstack.com/query/v4)
 [![Eclipse Vert.x](https://img.shields.io/badge/-Eclipse%20Vert.x-141414?style=flat&logo=eclipsevertdotx)](https://vertx.io/)
 [![Spring](https://img.shields.io/badge/-Spring-141414?style=flat&logo=spring)](https://spring.io/)
 
@@ -100,7 +102,6 @@ Hii, I'm a software developer and a student. I work on building APIs, working wi
 [![Vite](https://img.shields.io/badge/-Vite-141414?style=flat&logo=vite)](https://vitejs.dev/)
 [![Gradle](https://img.shields.io/badge/-Gradle-141414?style=flat&logo=gradle)](https://gradle.org/)
 [![Sublime](https://img.shields.io/badge/-Sublime-141414?style=flat&logo=sublimetext)](https://www.sublimetext.com/)
-[![Atom](https://img.shields.io/badge/-Atom-141414?style=flat&logo=atom)](https://atom.io)
 [![Krita](https://img.shields.io/badge/-Krita-141414?style=flat&logo=krita&logoColor=white)](https://krita.org/en)
 [![Figma](https://img.shields.io/badge/-Figma-141414?style=flat&logo=Figma&logoColor=white)](https://figma.com)
 

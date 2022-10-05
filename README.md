@@ -4,10 +4,17 @@ she/they | Open Source Software Developer | Core Maintainer of [Rin](https://git
 
 Hii, I'm a software developer and a student. I work on building APIs, working with both SQL and NoSQL databases, and develop Discord bots. I also handle frontend frameworks as well. I'm a full stack web developer, working with frameworks from React, and Next.js to backend frameworks like Spring, Django, Fiber, and many more.
 
+## Current Projects
+
+[![Kumiko](https://github-readme-stats.vercel.app/api/pin/?username=No767&repo=Kumiko)](https://github.com/No767/Kumiko)
+[![Rin](https://github-readme-stats.vercel.app/api/pin/?username=No767&repo=Rin)](https://github.com/No767/Rin)
+
 ## Stats
 ![Profile views](https://komarev.com/ghpvc/?username=No767&color=edb8ff)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=No767&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=No767&theme=dark&hide_border=true&border_radius=6)](https://git.io/streak-stats)
 
 ## Portfolio
 

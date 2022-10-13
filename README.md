@@ -19,6 +19,11 @@ Hii, I'm a software developer and a student. I work on building APIs, working wi
 
 ## Portfolio
 
+### Preferred programming languages
+
+[![Python](https://img.shields.io/badge/-Python-141414?style=flat&logo=python)](https://www.python.org/)
+[![Java](https://img.shields.io/badge/-Java-141414?style=flat&logo=openjdk)](https://adoptium.net/)
+
 ### Languages That I Currently Use
 
 [![Python](https://img.shields.io/badge/-Python-141414?style=flat&logo=python)](https://www.python.org/)

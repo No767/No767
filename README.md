@@ -2,7 +2,7 @@
 
 she/they | Open Source Software Developer | Core Maintainer of [Rin](https://github.com/No767/Rin), [Kumiko](https://github.com/No767/Kumiko) and [Miku](https://github.com/No767/Miku)
 
-Hii, I'm a software developer and a student. I work on building APIs, working with both SQL and NoSQL databases, and developing Discord bots. I also handle frontend frameworks as well. I'm a full stack web developer, working with frameworks from React, and Next.js to backend frameworks like Spring, Django, FastAPI, Fiber, and many more.
+Hii, I'm a software developer and a student. I currently maintain [Kumiko](https://github.com/No767/Kumiko) and work on Discord bots as well. I work on building APIs, working with both SQL and NoSQL databases, which some of my favorites include PostgreSQL, MongoDB, and Redis. I also handle frontend frameworks as well. I'm a full stack web developer, working with frameworks from React, and Next.js to backend frameworks like Spring, Django, FastAPI,  and many more.
 
 ## Current Projects
 
@@ -68,16 +68,17 @@ Hii, I'm a software developer and a student. I work on building APIs, working wi
 [![Mantine](https://img.shields.io/badge/-Mantine-141414?style=flat&logo=mantine)](https://mantine.dev/)
 [![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-141414?style=flat&logo=chakraui)](https://chakra-ui.com/)
 [![Django](https://img.shields.io/badge/-Django-141414?style=flat&logo=django)](https://djangoproject.com)
+[![Django](https://img.shields.io/badge/-Django%20REST%20Framework-141414?style=flat&logo=django)]([https://djangoproject.com](https://www.django-rest-framework.org/))
 [![Flask](https://img.shields.io/badge/-Flask-141414?style=flat&logo=flask)](https://flask.palletsprojects.com/en/2.0.x/)
 [![FastAPI](https://img.shields.io/badge/-FastAPI-141414?style=flat&logo=fastapi)](https://fastapi.tiangolo.com/)
 [![Sanic](https://img.shields.io/badge/-Sanic-141414?style=flat&logo=sanic)](https://sanic.readthedocs.io/en/stable/)
 [![React](https://img.shields.io/badge/-React-141414?style=flat&logo=react)](https://reactjs.org)
 [![React Native](https://img.shields.io/badge/-React%20Native-141414?style=flat&logo=react)](https://reactnative.dev/)
 [![Next.js](https://img.shields.io/badge/-Next.js-141414?style=flat&logo=nextdotjs)](https://nextjs.org/org)
-[![Remix](https://img.shields.io/badge/-Remix-141414?style=flat&logo=remix)](https://remix.run)
 [![Gatsby](https://img.shields.io/badge/-Gatsby-141414?style=flat&logo=gatsby)](https://www.gatsbyjs.com/)
 [![React Query](https://img.shields.io/badge/-React%20Query-141414?style=flat&logo=reactquery)](https://tanstack.com/query/v4)
 [![Eclipse Vert.x](https://img.shields.io/badge/-Eclipse%20Vert.x-141414?style=flat&logo=eclipsevertdotx)](https://vertx.io/)
+[![Quarkus](https://img.shields.io/badge/-Quarkus-141414?style=flat&logo=quarkus)](https://quarkus.io/)
 [![Spring](https://img.shields.io/badge/-Spring-141414?style=flat&logo=spring)](https://spring.io/)
 
 ### Databases I know and use

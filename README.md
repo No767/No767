@@ -17,6 +17,10 @@ Hii, I'm a software developer and a student. I currently maintain [Kumiko](https
 [![stats](https://github-readme-stats.vercel.app/api?username=No767&count_private=true&show_icons=true&theme=dark&hide_border=true&border_radius=6&icon_color=ffa8fb&card_width=350)](https://github.com/No767)
 [![GitHub Streak](https://streak-stats.demolab.com?user=No767&theme=dark&hide_border=true&border_radius=6)](https://git.io/streak-stats)
 
+## What I am doing currently
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/454357482102587393)](https://discord.com/users/454357482102587393)
+
 ## Portfolio
 
 ### Preferred programming languages
@@ -50,16 +54,19 @@ Hii, I'm a software developer and a student. I currently maintain [Kumiko](https
 ### Linux Distros that I know and use
 [![Debian](https://img.shields.io/badge/-Debian-141414?style=flat&logo=debian)](https://www.debian.org/)
 [![Ubuntu](https://img.shields.io/badge/-Ubuntu-141414?style=flat&logo=ubuntu)](https://ubuntu.com/)
-[![OpenSUSE](https://img.shields.io/badge/-OpenSUSE-141414?style=flat&logo=opensuse)](https://ubuntu.com/)
+[![OpenSUSE](https://img.shields.io/badge/-OpenSUSE-141414?style=flat&logo=opensuse)](https://www.opensuse.org/)
 [![CentOS](https://img.shields.io/badge/-CentOS-141414?style=flat&logo=centos)](https://www.centos.org/)
 [![Alma Linux](https://img.shields.io/badge/-Alma%20Linux-141414?style=flat&logo=almalinux)](https://almalinux.org/)
 [![Rocky Linux](https://img.shields.io/badge/-Rocky%20Linux-141414?style=flat&logo=rockylinux)](https://rockylinux.org/)
 [![Fedora](https://img.shields.io/badge/-Fedora-141414?style=flat&logo=fedora)](https://getfedora.org/)
 [![PopOS](https://img.shields.io/badge/-PopOS-141414?style=flat&logo=popos)](https://pop.system76.com/)
-[![Linux Mint](https://img.shields.io/badge/-Linux%20Mint-141414?style=flat&logo=linux%20mint)](https://linuxmint.com/)
 [![Alpine Linux](https://img.shields.io/badge/-Alpine%20Linux-141414?style=flat&logo=alpinelinux)](https://www.alpinelinux.org/)
 [![Arch Linux](https://img.shields.io/badge/-Arch-141414?style=flat&logo=archlinux)](https://archlinux.org/)
 [![Gentoo](https://img.shields.io/badge/-Gentoo-141414?style=flat&logo=gentoo)](https://www.gentoo.org/)
+
+### Frameworks that I'm learning 
+
+[![Svelte](https://img.shields.io/badge/-Svelte-141414?style=flat&logo=svelte)](https://svelte.dev/)
 
 ### Frameworks that I know and/or use
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-141414?style=flat&logo=bootstrap)](https://getbootstrap.com/)
@@ -68,10 +75,9 @@ Hii, I'm a software developer and a student. I currently maintain [Kumiko](https
 [![Mantine](https://img.shields.io/badge/-Mantine-141414?style=flat&logo=mantine)](https://mantine.dev/)
 [![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-141414?style=flat&logo=chakraui)](https://chakra-ui.com/)
 [![Django](https://img.shields.io/badge/-Django-141414?style=flat&logo=django)](https://djangoproject.com)
-[![Django](https://img.shields.io/badge/-Django%20REST%20Framework-141414?style=flat&logo=django)]([https://djangoproject.com](https://www.django-rest-framework.org/))
+[![Django Rest Framework](https://img.shields.io/badge/-Django%20REST%20Framework-141414?style=flat&logo=django)]([https://djangoproject.com](https://www.django-rest-framework.org/))
 [![Flask](https://img.shields.io/badge/-Flask-141414?style=flat&logo=flask)](https://flask.palletsprojects.com/en/2.0.x/)
 [![FastAPI](https://img.shields.io/badge/-FastAPI-141414?style=flat&logo=fastapi)](https://fastapi.tiangolo.com/)
-[![Sanic](https://img.shields.io/badge/-Sanic-141414?style=flat&logo=sanic)](https://sanic.readthedocs.io/en/stable/)
 [![React](https://img.shields.io/badge/-React-141414?style=flat&logo=react)](https://reactjs.org)
 [![React Native](https://img.shields.io/badge/-React%20Native-141414?style=flat&logo=react)](https://reactnative.dev/)
 [![Next.js](https://img.shields.io/badge/-Next.js-141414?style=flat&logo=nextdotjs)](https://nextjs.org/org)
@@ -94,7 +100,6 @@ Hii, I'm a software developer and a student. I currently maintain [Kumiko](https
 [![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-141414?style=flat&logo=visual-studio)](https://visualstudio.microsoft.com/)
 [![PyCharm](https://img.shields.io/badge/-PyCharm-141414?style=flat&logo=pycharm)](https://www.jetbrains.com/pycharm/)
 [![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-141414?style=flat&logo=intellij%20idea)](https://www.jetbrains.com/idea/)
-[![Android Studio](https://img.shields.io/badge/-Android%20Studio-141414?style=flat&logo=android%20studio)](https://developer.android.com/studio)
 [![WebStorm](https://img.shields.io/badge/-WebStorm-141414?style=flat&logo=webstorm)](https://www.jetbrains.com/webstorm/)
 [![Vim](https://img.shields.io/badge/-Vim-141414?style=flat&logo=vim)](https://vim.org)
 [![NeoVim](https://img.shields.io/badge/-NeoVim-141414?style=flat&logo=neovim)](https://neovim.io)
@@ -119,7 +124,7 @@ Hii, I'm a software developer and a student. I currently maintain [Kumiko](https
 [![Sublime](https://img.shields.io/badge/-Sublime-141414?style=flat&logo=sublimetext)](https://www.sublimetext.com/)
 [![Krita](https://img.shields.io/badge/-Krita-141414?style=flat&logo=krita&logoColor=white)](https://krita.org/en)
 [![Figma](https://img.shields.io/badge/-Figma-141414?style=flat&logo=Figma&logoColor=white)](https://figma.com)
-
+[![Discord](https://img.shields.io/badge/-Discord-141414?style=flat&logo=discord&logoColor=white)](https://discord.com)
 ---
 <a href="https://github.com/No767">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?&username=No767&hide=css,html&theme=dark&layout=compact&hide_border=true&icon_color=ffa8fb" />

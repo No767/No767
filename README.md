@@ -1,8 +1,10 @@
 ### Hey there, I'm Noelle
 
-she/they | Open Source Software Developer | Core Maintainer of [Rin](https://github.com/No767/Rin), [Kumiko](https://github.com/No767/Kumiko) and [Miku](https://github.com/No767/Miku)
+she/they | Open Source Software Developer | Core Maintainer of [Rin](https://github.com/No767/Rin), [Kumiko](https://github.com/No767/Kumiko) [Miku](https://github.com/No767/Miku), and [Akari](https://github.com/No767/Akari)
 
-Hii, I'm a software developer and a student. I currently maintain [Kumiko](https://github.com/No767/Kumiko) and work on Discord bots as well. I work on building APIs, working with both SQL and NoSQL databases, which some of my favorites include PostgreSQL, MongoDB, and Redis. I also handle frontend frameworks as well. I'm a full stack web developer, working with frameworks from React, and Next.js to backend frameworks like Spring, Django, FastAPI,  and many more.
+Hii, I'm a software developer and a student. I currently maintain [Kumiko](https://github.com/No767/Kumiko) and work on building fault tolerant web backend applications. I work on building APIs, working with both SQL and NoSQL databases, which some of my favorites include PostgreSQL, MongoDB, and Redis. I'm a full stack web developer, working with frameworks from React and Svelte, to backend frameworks like Next.js, Spring Boot, Django, Flask, FastAPI, and many more. Soon majoring in CE, and going to be a systems programmer as well.
+
+Also one of the hardware leaders at [FRC 5507](https://www.thebluealliance.com/team/5507) (2 years), and president of my local [Girls Who Code](https://girlswhocode.com/) club
 
 ## Current Projects
 
@@ -86,6 +88,7 @@ Hii, I'm a software developer and a student. I currently maintain [Kumiko](https
 [![Eclipse Vert.x](https://img.shields.io/badge/-Eclipse%20Vert.x-141414?style=flat&logo=eclipsevertdotx)](https://vertx.io/)
 [![Quarkus](https://img.shields.io/badge/-Quarkus-141414?style=flat&logo=quarkus)](https://quarkus.io/)
 [![Spring](https://img.shields.io/badge/-Spring-141414?style=flat&logo=spring)](https://spring.io/)
+[![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-141414?style=flat&logo=springboot)](https://spring.io/projects/spring-boot)
 
 ### Databases I know and use
 [![MySQL](https://img.shields.io/badge/-MySQL-141414?style=flat&logo=mysql&logoColor=FFFFFF)](https://www.mysql.com/)

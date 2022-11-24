@@ -1,6 +1,6 @@
 ### Hey there, I'm Noelle
 
-she/they | Open Source Software Developer | Core Maintainer of [Rin](https://github.com/No767/Rin), [Kumiko](https://github.com/No767/Kumiko) [Miku](https://github.com/No767/Miku), and [Akari](https://github.com/No767/Akari)
+she/they | Open Source Software Developer | Core Maintainer of [Rin](https://github.com/No767/Rin), [Kumiko](https://github.com/No767/Kumiko), [Miku](https://github.com/No767/Miku), and [Akari](https://github.com/No767/Akari)
 
 Hii, I'm a software developer and a student. I currently maintain [Kumiko](https://github.com/No767/Kumiko) and work on building fault tolerant web backend applications. I work on building APIs, working with both SQL and NoSQL databases, which some of my favorites include PostgreSQL, MongoDB, and Redis. I'm a full stack web developer, working with frameworks from React and Svelte, to backend frameworks like Next.js, Spring Boot, Django, Flask, FastAPI, and many more. Soon majoring in CE, and going to be a systems programmer as well.
 

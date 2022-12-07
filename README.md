@@ -44,6 +44,7 @@ Also one of the hardware leaders at [FRC 5507](https://www.thebluealliance.com/t
 ### Languages that either I am learning or have started
 
 [![Go](https://img.shields.io/badge/-Go-141414?style=flat&logo=go)](https://go.dev/)
+[![Rust](https://img.shields.io/badge/-Rust-141414?style=flat&logo=rust)](https://www.rust-lang.org/)
 
 ### Planned Languages to Learn
 
@@ -51,7 +52,6 @@ Also one of the hardware leaders at [FRC 5507](https://www.thebluealliance.com/t
 [![C#](https://img.shields.io/badge/-C%23-141414?style=flat&logo=csharp)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 ![C](https://img.shields.io/badge/-C-141414?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-141414?style=flat&logo=c%2B%2B)
-[![Rust](https://img.shields.io/badge/-Rust-141414?style=flat&logo=rust)](https://www.rust-lang.org/)
 
 ### Linux Distros that I know and use
 [![Debian](https://img.shields.io/badge/-Debian-141414?style=flat&logo=debian)](https://www.debian.org/)

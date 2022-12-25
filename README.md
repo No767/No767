@@ -2,7 +2,7 @@
 
 she/they | Open Source Software Developer | Core Maintainer of [Rin](https://github.com/No767/Rin), [Kumiko](https://github.com/No767/Kumiko), [Miku](https://github.com/No767/Miku), and [Akari](https://github.com/No767/Akari)
 
-Hii, I'm a software developer and a student. I currently maintain [Kumiko](https://github.com/No767/Kumiko) and work on building fault tolerant web backend applications. I work on building APIs, working with both SQL and NoSQL databases, which some of my favorites include PostgreSQL, MongoDB, and Redis. I'm a full stack web developer, working with frameworks from React and Svelte, to backend frameworks like Next.js, Spring Boot, Django, Flask, FastAPI, and many more. Soon majoring in CE, and going to be a systems programmer as well.
+Hii, I'm a software developer and a student. I currently maintain [Kumiko](https://github.com/No767/Kumiko) and work on building fault tolerant web backend applications. I work on building APIs, working with both SQL and NoSQL databases, which some of my favorites include PostgreSQL, MongoDB, and Redis. I'm a full stack web developer, working with frameworks from React and Svelte, to backend frameworks like Next.js, Spring Boot, Django, Flask, FastAPI, Actix and many more. Soon majoring in CE, and going to be a systems programmer as well.
 
 Also one of the hardware leaders at [FRC 5507](https://www.thebluealliance.com/team/5507) (2 years), and president of my local [Girls Who Code](https://girlswhocode.com/) club
 
@@ -43,7 +43,6 @@ Also one of the hardware leaders at [FRC 5507](https://www.thebluealliance.com/t
 
 ### Languages that either I am learning or have started
 
-[![Go](https://img.shields.io/badge/-Go-141414?style=flat&logo=go)](https://go.dev/)
 [![Rust](https://img.shields.io/badge/-Rust-141414?style=flat&logo=rust)](https://www.rust-lang.org/)
 
 ### Planned Languages to Learn

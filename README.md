@@ -6,6 +6,8 @@ Hii, I'm a backend web engineer and a HS student. I currently maintain [Kumiko](
 
 Also one of the hardware leaders at [FRC 5507](https://www.thebluealliance.com/team/5507) (2 years), and president of my local [Girls Who Code](https://girlswhocode.com/) club
 
+You can also find me [here](https://www.chiefdelphi.com/u/no767)
+
 ## Current Projects
 
 [![Kumiko](https://github-readme-stats.vercel.app/api/pin/?username=No767&repo=Kumiko&theme=dark&hide_border=true&border_radius=6&icon_color=ffa8fb)](https://github.com/No767/Kumiko)

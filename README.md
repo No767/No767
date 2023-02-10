@@ -6,8 +6,6 @@ Hii, I'm a backend web engineer and a HS student. I currently maintain [Kumiko](
 
 Also one of the hardware leaders at [FRC 5507](https://www.thebluealliance.com/team/5507) (2 years), and president of my local [Girls Who Code](https://girlswhocode.com/) club
 
-You can also find me [here](https://www.chiefdelphi.com/u/no767)
-
 ## Current Projects
 
 [![Kumiko](https://github-readme-stats.vercel.app/api/pin/?username=No767&repo=Kumiko&theme=dark&hide_border=true&border_radius=6&icon_color=ffa8fb)](https://github.com/No767/Kumiko)
@@ -82,12 +80,8 @@ You can also find me [here](https://www.chiefdelphi.com/u/no767)
 [![Flask](https://img.shields.io/badge/-Flask-141414?style=flat&logo=flask)](https://flask.palletsprojects.com/en/2.0.x/)
 [![FastAPI](https://img.shields.io/badge/-FastAPI-141414?style=flat&logo=fastapi)](https://fastapi.tiangolo.com/)
 [![React](https://img.shields.io/badge/-React-141414?style=flat&logo=react)](https://reactjs.org)
-[![React Native](https://img.shields.io/badge/-React%20Native-141414?style=flat&logo=react)](https://reactnative.dev/)
 [![Next.js](https://img.shields.io/badge/-Next.js-141414?style=flat&logo=nextdotjs)](https://nextjs.org/org)
-[![Gatsby](https://img.shields.io/badge/-Gatsby-141414?style=flat&logo=gatsby)](https://www.gatsbyjs.com/)
 [![React Query](https://img.shields.io/badge/-React%20Query-141414?style=flat&logo=reactquery)](https://tanstack.com/query/v4)
-[![Eclipse Vert.x](https://img.shields.io/badge/-Eclipse%20Vert.x-141414?style=flat&logo=eclipsevertdotx)](https://vertx.io/)
-[![Quarkus](https://img.shields.io/badge/-Quarkus-141414?style=flat&logo=quarkus)](https://quarkus.io/)
 [![Spring](https://img.shields.io/badge/-Spring-141414?style=flat&logo=spring)](https://spring.io/)
 [![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-141414?style=flat&logo=springboot)](https://spring.io/projects/spring-boot)
 
@@ -101,25 +95,22 @@ You can also find me [here](https://www.chiefdelphi.com/u/no767)
 ### Tools and Tech that I use
 
 [![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-141414?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://code.visualstudio.com/)
-[![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-141414?style=flat&logo=visual-studio)](https://visualstudio.microsoft.com/)
 [![PyCharm](https://img.shields.io/badge/-PyCharm-141414?style=flat&logo=pycharm)](https://www.jetbrains.com/pycharm/)
 [![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-141414?style=flat&logo=intellij%20idea)](https://www.jetbrains.com/idea/)
-[![WebStorm](https://img.shields.io/badge/-WebStorm-141414?style=flat&logo=webstorm)](https://www.jetbrains.com/webstorm/)
 [![Vim](https://img.shields.io/badge/-Vim-141414?style=flat&logo=vim)](https://vim.org)
 [![NeoVim](https://img.shields.io/badge/-NeoVim-141414?style=flat&logo=neovim)](https://neovim.io)
 [![Docker](https://img.shields.io/badge/-Docker-141414?style=flat&logo=docker)](https://docker.com)
 [![Nginx](https://img.shields.io/badge/-Nginx-141414?style=flat&logo=nginx)](https://nginx.org/)
 [![Bash](https://img.shields.io/badge/-Bash-141414?style=flat&logo=gnubash)](https://www.gnu.org/software/bash/)
 [![Windows Terminal](https://img.shields.io/badge/-Windows%20Terminal-141414?style=flat&logo=windows%20terminal)](https://github.com/microsoft/terminal)
-[![Alacritty](https://img.shields.io/badge/-Alacritty-141414?style=flat&logo=alacritty)](https://github.com/alacritty/alacritty)
 [![Windows](https://img.shields.io/badge/-Windows-141414?style=flat&logo=windows)](https://www.microsoft.com/en-us/windows/)
 [![Github](https://img.shields.io/badge/-Github-141414?style=flat&logo=github)](https://github.com)
 [![Git](https://img.shields.io/badge/-Git-141414?style=flat&logo=git)](https://git-scm.com/)
 [![Github Actions](https://img.shields.io/badge/-Github%20Actions-141414?style=flat&logo=github-actions)](https://github.com/features/actions)
-[![GNU GCC](https://img.shields.io/badge/-GCC-141414?style=flat&logo=gnu)](https://gcc.gnu.org/)
 [![Grafana](https://img.shields.io/badge/-Grafana-141414?style=flat&logo=grafana)](https://grafana.com/)
 [![Prometheus](https://img.shields.io/badge/-Prometheus-141414?style=flat&logo=prometheus)](https://prometheus.io/)
 [![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-141414?style=flat&logo=rabbitmq)](https://www.rabbitmq.com/)
+[![Prisma](https://img.shields.io/badge/-Prisma-141414?style=flat&logo=prisma)]([https://discord.com](https://www.prisma.io/))
 [![npm](https://img.shields.io/badge/-npm-141414?style=flat&logo=npm)](https://www.npmjs.com/)
 [![pnpm](https://img.shields.io/badge/-pnpm-141414?style=flat&logo=pnpm)](https://pnpm.io/)
 [![Yarn](https://img.shields.io/badge/-Yarn-141414?style=flat&logo=yarn)](https://yarnpkg.com/)

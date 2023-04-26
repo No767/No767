@@ -12,14 +12,11 @@ Currently I work on building fault tolerant web backend applications. I work on 
 
 ## Current Projects
 
-[![Kumiko](https://github-readme-stats.vercel.app/api/pin/?username=No767&repo=Kumiko&theme=dark&hide_border=true&border_radius=6&icon_color=ffa8fb)](https://github.com/No767/Kumiko) [![Xelt.py](https://github-readme-stats.vercel.app/api/pin/?username=XeltBot&repo=Xelt.py&theme=dark&hide_border=true&border_radius=6&icon_color=ffa8fb)](https://github.com/XeltBot/Xelt.py)
-
-## What I'm doing right now
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/454357482102587393)](https://discord.com/users/454357482102587393)
-
+[![Kumiko](https://github-readme-stats.vercel.app/api/pin/?username=No767&repo=Kumiko&theme=dark&hide_border=true&border_radius=6&icon_color=ffa8fb)](https://github.com/No767/Kumiko) [![Xelt.py](https://github-readme-stats.vercel.app/api/pin/?username=XeltBot&repo=Xelt.py&theme=dark&hide_border=true&border_radius=6&icon_color=ffa8fb)](https://github.com/XeltBot/Xelt.py) 
+      
 <details>
-
+  
+  
 <summary> Stats </summary>
 
 ![Profile views](https://komarev.com/ghpvc/?username=No767&color=edb8ff)
@@ -28,6 +25,8 @@ Currently I work on building fault tolerant web backend applications. I work on 
 
 [![stats](https://github-readme-stats.vercel.app/api?username=No767&count_private=true&show_icons=true&theme=dark&hide_border=true&border_radius=6&icon_color=ffa8fb&card_width=350)](https://github.com/No767)
 [![GitHub Streak](https://streak-stats.demolab.com?user=No767&theme=dark&hide_border=true&border_radius=6)](https://git.io/streak-stats)
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/454357482102587393)](https://discord.com/users/454357482102587393)
 
 </details>
 <details>

@@ -1,29 +1,37 @@
-### Hey there, I'm Noelle
+<div align=center>
 
-she/they | Open Source Software Developer | Core Maintainer of [Rin](https://github.com/No767/Rin), [Kumiko](https://github.com/No767/Kumiko), [Miku](https://github.com/No767/Miku), and [Akari](https://github.com/No767/Akari) | Co-Owner of [Xelt](https://top.gg/bot/726763157195849728)
+## Hey there, I'm Noelle :wave:
 
-Hii, I'm a backend web engineer and a HS student. I currently maintain [Kumiko](https://github.com/No767/Kumiko) and work on building fault tolerant web backend applications. I work on building APIs and production-ready server-side applications, and working with both SQL and NoSQL databases. I'm also full stack web developer, working with frameworks from React and Svelte, to backend frameworks like Next.js, Spring Boot, Django, Flask, FastAPI, Actix and many more. Soon I will be majoring in Computer Engineering, and going to be a systems programmer as well.
+[![Python](https://img.shields.io/badge/-Python-141414?style=flat&logo=python)](https://www.python.org/) [![Java](https://img.shields.io/badge/-Java-141414?style=flat&logo=openjdk)](https://adoptium.net/) [![TypeScript](https://img.shields.io/badge/-TypeScript-141414?style=flat&logo=typescript)](https://www.typescriptlang.org/)
 
-Also one of the hardware leaders at [FRC 5507](https://www.thebluealliance.com/team/5507) (2 years), and president of my local [Girls Who Code](https://girlswhocode.com/) club
+<div align=left>
+
+I'm a high school student currently working as a full stack web engineer. I'm currently the maintainer of many projects, including [Kumiko](https://github.com/No767/Kumiko), [Akari](https://github.com/No767/Akari), and [Xelt](https://top.gg/bot/726763157195849728). Also the former hardware leader, alumni, and future mentor at [FRC 5507](https://www.thebluealliance.com/team/5507) (2 years), and the current president and future mentor of my local [Girls Who Code](https://girlswhocode.com/) club. 
+
+Currently I work on building fault tolerant web backend applications. I work on building APIs and production-ready server-side applications, and working with both SQL and NoSQL databases. I'm also full stack web developer, working with frameworks from React and Svelte, to backend frameworks like Next.js, Spring Boot, Django, Flask, FastAPI, and many more. Soon I will be majoring in Computer Engineering at UC Merced.
 
 ## Current Projects
 
-[![Kumiko](https://github-readme-stats.vercel.app/api/pin/?username=No767&repo=Kumiko&theme=dark&hide_border=true&border_radius=6&icon_color=ffa8fb)](https://github.com/No767/Kumiko)
-[![Rin](https://github-readme-stats.vercel.app/api/pin/?username=No767&repo=Rin&theme=dark&hide_border=true&border_radius=6&icon_color=ffa8fb)](https://github.com/No767/Rin)
+[![Kumiko](https://github-readme-stats.vercel.app/api/pin/?username=No767&repo=Kumiko&theme=dark&hide_border=true&border_radius=6&icon_color=ffa8fb)](https://github.com/No767/Kumiko) [![Xelt.py](https://github-readme-stats.vercel.app/api/pin/?username=XeltBot&repo=Xelt.py&theme=dark&hide_border=true&border_radius=6&icon_color=ffa8fb)](https://github.com/XeltBot/Xelt.py)
 
-## Stats
+## What I'm doing right now
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/454357482102587393)](https://discord.com/users/454357482102587393)
+
+<details>
+
+<summary> Stats </summary>
+
 ![Profile views](https://komarev.com/ghpvc/?username=No767&color=edb8ff)
 
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=No767&theme=discord)](https://github.com/ryo-ma/github-profile-trophy) -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=No767&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![stats](https://github-readme-stats.vercel.app/api?username=No767&count_private=true&show_icons=true&theme=dark&hide_border=true&border_radius=6&icon_color=ffa8fb&card_width=350)](https://github.com/No767)
 [![GitHub Streak](https://streak-stats.demolab.com?user=No767&theme=dark&hide_border=true&border_radius=6)](https://git.io/streak-stats)
 
-## What I am doing currently
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/454357482102587393)](https://discord.com/users/454357482102587393)
-
-## Portfolio
+</details>
+<details>
+<summary> Portfolio </summary>
 
 ### Preferred programming languages
 
@@ -124,3 +132,5 @@ Also one of the hardware leaders at [FRC 5507](https://www.thebluealliance.com/t
 <a href="https://github.com/No767">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?&username=No767&hide=css,html&theme=dark&layout=compact&hide_border=true&icon_color=ffa8fb" />
 </a>
+
+</details>

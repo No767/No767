@@ -3,7 +3,7 @@
 ## Hey there, I'm Noelle 🏳️‍⚧️ 
 
 [![Python](https://img.shields.io/badge/-Python-141414?style=flat&logo=python)](https://www.python.org/) [![Java](https://img.shields.io/badge/-Java-141414?style=flat&logo=openjdk)](https://adoptium.net/) [![TypeScript](https://img.shields.io/badge/-TypeScript-141414?style=flat&logo=typescript)](https://www.typescriptlang.org/)
-
+  
 <div align=left>
 
 I'm a high school student currently working as a full stack web engineer. I'm currently the maintainer of many projects, including [Kumiko](https://github.com/No767/Kumiko), [Akari](https://github.com/No767/Akari), and [Xelt](https://top.gg/bot/726763157195849728). Also the former hardware leader, alumni, and future mentor at [FRC 5507](https://www.thebluealliance.com/team/5507) (2 years), and the current president and future mentor of my local [Girls Who Code](https://girlswhocode.com/) club. 

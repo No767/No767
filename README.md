@@ -1,6 +1,6 @@
 <div align=center>
 
-## Hey there, I'm Noelle :wave:
+## Hey there, I'm Noelle 🏳️‍⚧️ 
 
 [![Python](https://img.shields.io/badge/-Python-141414?style=flat&logo=python)](https://www.python.org/) [![Java](https://img.shields.io/badge/-Java-141414?style=flat&logo=openjdk)](https://adoptium.net/) [![TypeScript](https://img.shields.io/badge/-TypeScript-141414?style=flat&logo=typescript)](https://www.typescriptlang.org/)
 

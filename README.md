@@ -15,6 +15,11 @@ Currently I work on building fault tolerant web backend applications. I work on 
 [![Kumiko](https://github-readme-stats.vercel.app/api/pin/?username=No767&repo=Kumiko&theme=dark&hide_border=true&border_radius=6&icon_color=ffa8fb)](https://github.com/No767/Kumiko) [![Xelt.py](https://github-readme-stats.vercel.app/api/pin/?username=XeltBot&repo=Xelt.py&theme=dark&hide_border=true&border_radius=6&icon_color=ffa8fb)](https://github.com/XeltBot/Xelt.py) 
       
 <details>
+  <summary> Socials </summary>
+  - [Chief Delphi](https://www.chiefdelphi.com/u/no767/)
+  
+  </details>
+<details>
   
   
 <summary> Stats </summary>

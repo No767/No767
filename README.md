@@ -16,6 +16,7 @@ Currently I work on building fault tolerant web backend applications. I work on 
       
 <details>
   <summary> Socials </summary>
+  
   - [Chief Delphi](https://www.chiefdelphi.com/u/no767/)
   
   </details>

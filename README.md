@@ -6,7 +6,7 @@
   
 <div align=left>
 
-I'm an undergraduate at UC Merced currently working as a full stack web engineer in my spare time. I'm currently the maintainer of many projects, including [Kumiko](https://github.com/No767/Kumiko), [Akari](https://github.com/No767/Akari), and [Xelt](https://top.gg/bot/726763157195849728). Also the former hardware leader, alumni, and future mentor at [FRC 5507](https://www.thebluealliance.com/team/5507) (4 years working with my FRC team), and the former president and future mentor of my local [Girls Who Code](https://girlswhocode.com/) club.
+I'm an undergraduate at UC Merced currently working as a full stack web engineer in my spare time. I'm currently the maintainer of many projects, including [Kumiko](https://github.com/No767/Kumiko), [Akari](https://github.com/No767/Akari), and [Xelt](https://top.gg/bot/726763157195849728). Also the former hardware leader, alumni, and future mentor at [FRC 5507](https://www.thebluealliance.com/team/5507) (4 years working with my FRC team), and the former president and mentor of my local [Girls Who Code](https://girlswhocode.com/) club.
 
 Currently I work on building fault tolerant web backend applications. I work on building APIs and production-ready server-side applications, and working with both SQL and NoSQL databases. I'm also full stack web developer, working with frameworks from React and Svelte, to backend frameworks like Next.js, Spring Boot, Django, Flask, FastAPI, and many more. 
 

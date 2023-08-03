@@ -6,9 +6,9 @@
   
 <div align=left>
 
-I'm an undergraduate at UC Merced currently working as a full stack web engineer in my spare time. I'm currently the maintainer of many projects, including [Kumiko](https://github.com/No767/Kumiko), [Akari](https://github.com/No767/Akari), and [Xelt](https://top.gg/bot/726763157195849728). Also the former hardware leader, alumni, and future mentor at [FRC 5507](https://www.thebluealliance.com/team/5507) (4 years working with my FRC team), and the former president and mentor of my local [Girls Who Code](https://girlswhocode.com/) club.
+I'm an undergraduate at Unversity of California, Merced and currently working as a full stack web engineer in my spare time. I'm currently the maintainer of many projects, including [Kumiko](https://github.com/No767/Kumiko), [Akari](https://github.com/No767/Akari), and [Xelt](https://top.gg/bot/726763157195849728). Also the former hardware leader, alumni, and future mentor at [FRC 5507](https://www.thebluealliance.com/team/5507) (4 years working with my FRC team), and the former president and mentor of my local [Girls Who Code](https://girlswhocode.com/) club.
 
-Currently I work on building fault tolerant web backend applications. I work on building APIs and production-ready server-side applications, and working with both SQL and NoSQL databases. I'm also full stack web developer, working with frameworks from React and Svelte, to backend frameworks like Next.js, Spring Boot, Django, Flask, FastAPI, and many more. 
+Currently, I work on building fault-tolerant web backend applications. I work on building APIs and production-ready server-side applications and working with both SQL and NoSQL databases. I'm also full-stack web developer, working with frameworks from React to backend frameworks like Next.js, Spring Boot, Django, Flask, FastAPI, and many more. 
 
 ## Current Projects
 
@@ -18,6 +18,7 @@ Currently I work on building fault tolerant web backend applications. I work on 
   <summary> Socials </summary>
   
   - [Chief Delphi](https://www.chiefdelphi.com/u/no767/)
+  - [Linkedin](https://www.linkedin.com/in/noelle-Wang-61614b253/)
   
   </details>
 <details>
@@ -80,16 +81,9 @@ Currently I work on building fault tolerant web backend applications. I work on 
 [![Arch Linux](https://img.shields.io/badge/-Arch-141414?style=flat&logo=archlinux)](https://archlinux.org/)
 [![Gentoo](https://img.shields.io/badge/-Gentoo-141414?style=flat&logo=gentoo)](https://www.gentoo.org/)
 
-### Frameworks that I'm learning 
-
-[![Svelte](https://img.shields.io/badge/-Svelte-141414?style=flat&logo=svelte)](https://svelte.dev/)
-
 ### Frameworks that I know and/or use
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-141414?style=flat&logo=bootstrap)](https://getbootstrap.com/)
 [![TailWind CSS](https://img.shields.io/badge/-Tailwind%20CSS-141414?style=flat&logo=tailwindcss)](https://tailwindcss.com)
-[![MUI](https://img.shields.io/badge/-MUI-141414?style=flat&logo=mui)](https://mui.com/)
-[![Mantine](https://img.shields.io/badge/-Mantine-141414?style=flat&logo=mantine)](https://mantine.dev/)
-[![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-141414?style=flat&logo=chakraui)](https://chakra-ui.com/)
 [![Django](https://img.shields.io/badge/-Django-141414?style=flat&logo=django)](https://djangoproject.com)
 [![Django Rest Framework](https://img.shields.io/badge/-Django%20REST%20Framework-141414?style=flat&logo=django)]([https://djangoproject.com](https://www.django-rest-framework.org/))
 [![Flask](https://img.shields.io/badge/-Flask-141414?style=flat&logo=flask)](https://flask.palletsprojects.com/en/2.0.x/)
@@ -112,11 +106,11 @@ Currently I work on building fault tolerant web backend applications. I work on 
 [![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-141414?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://code.visualstudio.com/)
 [![PyCharm](https://img.shields.io/badge/-PyCharm-141414?style=flat&logo=pycharm)](https://www.jetbrains.com/pycharm/)
 [![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-141414?style=flat&logo=intellij%20idea)](https://www.jetbrains.com/idea/)
-[![Vim](https://img.shields.io/badge/-Vim-141414?style=flat&logo=vim)](https://vim.org)
 [![NeoVim](https://img.shields.io/badge/-NeoVim-141414?style=flat&logo=neovim)](https://neovim.io)
 [![Docker](https://img.shields.io/badge/-Docker-141414?style=flat&logo=docker)](https://docker.com)
 [![Nginx](https://img.shields.io/badge/-Nginx-141414?style=flat&logo=nginx)](https://nginx.org/)
 [![Bash](https://img.shields.io/badge/-Bash-141414?style=flat&logo=gnubash)](https://www.gnu.org/software/bash/)
+[![Pytest](https://img.shields.io/badge/-Pytest-141414?style=flat&logo=pytest)](https://docs.pytest.org/en/latest/)
 [![Windows Terminal](https://img.shields.io/badge/-Windows%20Terminal-141414?style=flat&logo=windows%20terminal)](https://github.com/microsoft/terminal)
 [![Windows](https://img.shields.io/badge/-Windows-141414?style=flat&logo=windows)](https://www.microsoft.com/en-us/windows/)
 [![Github](https://img.shields.io/badge/-Github-141414?style=flat&logo=github)](https://github.com)
@@ -125,14 +119,14 @@ Currently I work on building fault tolerant web backend applications. I work on 
 [![Grafana](https://img.shields.io/badge/-Grafana-141414?style=flat&logo=grafana)](https://grafana.com/)
 [![Prometheus](https://img.shields.io/badge/-Prometheus-141414?style=flat&logo=prometheus)](https://prometheus.io/)
 [![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-141414?style=flat&logo=rabbitmq)](https://www.rabbitmq.com/)
-[![Prisma](https://img.shields.io/badge/-Prisma-141414?style=flat&logo=prisma)]([https://discord.com](https://www.prisma.io/))
+[![ZeroMQ](https://img.shields.io/badge/-ZeroMQ-141414?style=flat&logo=zeromq)](https://zeromq.org/)
+[![Prisma](https://img.shields.io/badge/-Prisma-141414?style=flat&logo=prisma)](https://www.prisma.io/)
 [![npm](https://img.shields.io/badge/-npm-141414?style=flat&logo=npm)](https://www.npmjs.com/)
 [![pnpm](https://img.shields.io/badge/-pnpm-141414?style=flat&logo=pnpm)](https://pnpm.io/)
 [![Yarn](https://img.shields.io/badge/-Yarn-141414?style=flat&logo=yarn)](https://yarnpkg.com/)
 [![Vite](https://img.shields.io/badge/-Vite-141414?style=flat&logo=vite)](https://vitejs.dev/)
 [![Gradle](https://img.shields.io/badge/-Gradle-141414?style=flat&logo=gradle)](https://gradle.org/)
-[![Sublime](https://img.shields.io/badge/-Sublime-141414?style=flat&logo=sublimetext)](https://www.sublimetext.com/)
-[![Krita](https://img.shields.io/badge/-Krita-141414?style=flat&logo=krita&logoColor=white)](https://krita.org/en)
+[![Poetry](https://img.shields.io/badge/-Poetry-141414?style=flat&logo=poetry)](https://python-poetry.org/)
 [![Figma](https://img.shields.io/badge/-Figma-141414?style=flat&logo=Figma&logoColor=white)](https://figma.com)
 [![Discord](https://img.shields.io/badge/-Discord-141414?style=flat&logo=discord&logoColor=white)](https://discord.com)
 ---

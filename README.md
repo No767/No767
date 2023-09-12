@@ -1,18 +1,25 @@
 <div align=center>
 
-## Hey there, I'm Noelle 🏳️‍⚧️ 
+## Hey there, I'm Noelle
 
 [![Python](https://img.shields.io/badge/-Python-141414?style=flat&logo=python)](https://www.python.org/) [![Java](https://img.shields.io/badge/-Java-141414?style=flat&logo=openjdk)](https://adoptium.net/) [![TypeScript](https://img.shields.io/badge/-TypeScript-141414?style=flat&logo=typescript)](https://www.typescriptlang.org/)
   
 <div align=left>
 
-I'm an undergraduate at Unversity of California, Merced and currently working as a full stack web engineer in my spare time. I'm currently the maintainer of many projects, including [Kumiko](https://github.com/No767/Kumiko), [Akari](https://github.com/No767/Akari), and [Xelt](https://top.gg/bot/726763157195849728). Also the former hardware leader, alumni, and future mentor at [FRC 5507](https://www.thebluealliance.com/team/5507) (4 years working with my FRC team), and the former president and mentor of my local [Girls Who Code](https://girlswhocode.com/) club.
+I'm an undergraduate at the University of California, Merced and currently working as a full-stack web engineer in my spare time. I'm currently the maintainer of many projects, including [Kumiko](https://github.com/No767/Kumiko), [Akari](https://github.com/No767/Akari), and [Xelt](https://top.gg/bot/726763157195849728). Also the former hardware leader, alumni, and future mentor at [FRC 5507](https://www.thebluealliance.com/team/5507) (4 years working with my FRC team), and the former president and mentor of my local [Girls Who Code](https://girlswhocode.com/) club.
 
 Currently, I work on building fault-tolerant web backend applications. I work on building APIs and production-ready server-side applications and working with both SQL and NoSQL databases. I'm also full-stack web developer, working with frameworks from React to backend frameworks like Next.js, Spring Boot, Django, Flask, FastAPI, and many more. 
 
 ## Current Projects
 
-[![Kumiko](https://github-readme-stats.vercel.app/api/pin/?username=No767&repo=Kumiko&theme=dark&hide_border=true&border_radius=6&icon_color=ffa8fb)](https://github.com/No767/Kumiko) [![Xelt.py](https://github-readme-stats.vercel.app/api/pin/?username=XeltBot&repo=Xelt.py&theme=dark&hide_border=true&border_radius=6&icon_color=ffa8fb)](https://github.com/XeltBot/Xelt.py) 
+[![Kumiko](https://github-readme-stats.vercel.app/api/pin/?username=No767&repo=Kumiko&theme=dark&hide_border=true&border_radius=6&icon_color=ffa8fb)](https://github.com/No767/Kumiko) [![Xelt.py](https://github-readme-stats.vercel.app/api/pin/?username=XeltBot&repo=Xelt.py&theme=dark&hide_border=true&border_radius=6&icon_color=ffa8fb)](https://github.com/XeltBot/Xelt.py)
+
+<details>
+  <summary>More projects</summary>
+
+  [![Catherine-Chan](https://github-readme-stats.vercel.app/api/pin/?username=No767&repo=Catherine-Chan&theme=dark&hide_border=true&border_radius=6&icon_color=ffa8fb)](https://github.com/No767/Catherine-Chan) 
+  
+</details>
       
 <details>
   <summary> Socials </summary>
@@ -57,7 +64,7 @@ Currently, I work on building fault-tolerant web backend applications. I work on
 ![CSS](https://img.shields.io/badge/-CSS-141414?style=flat&logo=css3)
 ![SQL](https://img.shields.io/badge/-SQL-141414?style=flat&logo=postgresql)
 
-### Languages that either I am learning or have started
+### Languages that I am learning or have started
 
 [![Rust](https://img.shields.io/badge/-Rust-141414?style=flat&logo=rust)](https://www.rust-lang.org/)
 
@@ -72,17 +79,11 @@ Currently, I work on building fault-tolerant web backend applications. I work on
 [![Debian](https://img.shields.io/badge/-Debian-141414?style=flat&logo=debian)](https://www.debian.org/)
 [![Ubuntu](https://img.shields.io/badge/-Ubuntu-141414?style=flat&logo=ubuntu)](https://ubuntu.com/)
 [![OpenSUSE](https://img.shields.io/badge/-OpenSUSE-141414?style=flat&logo=opensuse)](https://www.opensuse.org/)
-[![CentOS](https://img.shields.io/badge/-CentOS-141414?style=flat&logo=centos)](https://www.centos.org/)
-[![Alma Linux](https://img.shields.io/badge/-Alma%20Linux-141414?style=flat&logo=almalinux)](https://almalinux.org/)
-[![Rocky Linux](https://img.shields.io/badge/-Rocky%20Linux-141414?style=flat&logo=rockylinux)](https://rockylinux.org/)
 [![Fedora](https://img.shields.io/badge/-Fedora-141414?style=flat&logo=fedora)](https://getfedora.org/)
 [![PopOS](https://img.shields.io/badge/-PopOS-141414?style=flat&logo=popos)](https://pop.system76.com/)
-[![Alpine Linux](https://img.shields.io/badge/-Alpine%20Linux-141414?style=flat&logo=alpinelinux)](https://www.alpinelinux.org/)
 [![Arch Linux](https://img.shields.io/badge/-Arch-141414?style=flat&logo=archlinux)](https://archlinux.org/)
-[![Gentoo](https://img.shields.io/badge/-Gentoo-141414?style=flat&logo=gentoo)](https://www.gentoo.org/)
 
 ### Frameworks that I know and/or use
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-141414?style=flat&logo=bootstrap)](https://getbootstrap.com/)
 [![TailWind CSS](https://img.shields.io/badge/-Tailwind%20CSS-141414?style=flat&logo=tailwindcss)](https://tailwindcss.com)
 [![Django](https://img.shields.io/badge/-Django-141414?style=flat&logo=django)](https://djangoproject.com)
 [![Django Rest Framework](https://img.shields.io/badge/-Django%20REST%20Framework-141414?style=flat&logo=django)]([https://djangoproject.com](https://www.django-rest-framework.org/))
@@ -90,7 +91,6 @@ Currently, I work on building fault-tolerant web backend applications. I work on
 [![FastAPI](https://img.shields.io/badge/-FastAPI-141414?style=flat&logo=fastapi)](https://fastapi.tiangolo.com/)
 [![React](https://img.shields.io/badge/-React-141414?style=flat&logo=react)](https://reactjs.org)
 [![Next.js](https://img.shields.io/badge/-Next.js-141414?style=flat&logo=nextdotjs)](https://nextjs.org/org)
-[![React Query](https://img.shields.io/badge/-React%20Query-141414?style=flat&logo=reactquery)](https://tanstack.com/query/v4)
 [![Spring](https://img.shields.io/badge/-Spring-141414?style=flat&logo=spring)](https://spring.io/)
 [![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-141414?style=flat&logo=springboot)](https://spring.io/projects/spring-boot)
 

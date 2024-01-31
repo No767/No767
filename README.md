@@ -6,13 +6,26 @@
   
 <div align=left>
 
-I'm an undergraduate at the University of California, Merced and currently working as a full-stack web engineer in my spare time. I'm currently the maintainer of many projects, including [Kumiko](https://github.com/No767/Kumiko), [Akari](https://github.com/No767/Akari), and [Xelt](https://top.gg/bot/726763157195849728). Also the former hardware leader, alumni, and future mentor at [FRC 5507](https://www.thebluealliance.com/team/5507) (4 years working with my FRC team), and the former president and mentor of my local [Girls Who Code](https://girlswhocode.com/) club.
+I'm an Computer Science undergraduate at University of California, Merced. Currently, some of my positions include:
 
-Currently, I work on building fault-tolerant web backend applications. I work on building APIs and production-ready server-side applications and working with both SQL and NoSQL databases. I'm also full-stack web developer, working with frameworks from React to backend frameworks like Next.js, Spring Boot, Django, Flask, FastAPI, and many more. 
+- Hardware/Software Mentor at FRC 5507 (1st year as a mentor, 5 years on the team)
+    - Alumni and Former Hardware Leader
+- Software Mentor (and former president) at GWHS Girls Who Code
+- Webmaster at @UCMercedACM
+- Member of Society of Women Engineers at UC Merced
+- Member of UC Merced's Battlebots team
+- Lead developer/manager at @transprogrammer
+- Discord bot developer (in my spare time)
 
-## Current Projects
+Currently my focus is on robotics and web backend applications.
+I work on building APIs and production-ready server-side applications working with 
+both SQL and NoSQL databases. I tend to work with frontend frameworks such as
+from React to backend frameworks like Django, Flask, and many more.
 
-[![Kumiko](https://github-readme-stats.vercel.app/api/pin/?username=No767&repo=Kumiko&theme=dark&hide_border=true&border_radius=6&icon_color=ffa8fb)](https://github.com/No767/Kumiko) [![Xelt.py](https://github-readme-stats.vercel.app/api/pin/?username=XeltBot&repo=Xelt.py&theme=dark&hide_border=true&border_radius=6&icon_color=ffa8fb)](https://github.com/XeltBot/Xelt.py)
+
+# Current Projects
+
+[![Kumiko](https://github-readme-stats.vercel.app/api/pin/?username=No767&repo=Kumiko&theme=dark&hide_border=true&border_radius=6&icon_color=ffa8fb)](https://github.com/No767/Kumiko) [![rodhaj](https://github-readme-stats.vercel.app/api/pin/?username=transprogrammer&repo=rodhaj&theme=dark&hide_border=true&border_radius=6&icon_color=ffa8fb)](https://github.com/transprogrammer/rodhaj)
 
 <details>
   <summary>More projects</summary>

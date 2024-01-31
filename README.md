@@ -11,10 +11,10 @@ I'm an Computer Science undergraduate at University of California, Merced. Curre
 - Hardware/Software Mentor at FRC 5507 (1st year as a mentor, 5 years on the team)
     - Alumni and Former Hardware Leader
 - Software Mentor (and former president) at GWHS Girls Who Code
-- Webmaster at @UCMercedACM
+- Webmaster at [UCMercedACM](https://github.com/UCMercedACM)
 - Member of Society of Women Engineers at UC Merced
 - Member of UC Merced's Battlebots team
-- Lead developer/manager at @transprogrammer
+- Lead developer/manager at [transprogrammer](https://github.com/transprogrammer)
 - Discord bot developer (in my spare time)
 
 Currently my focus is on robotics and web backend applications.

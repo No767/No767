@@ -17,11 +17,9 @@ I'm an Computer Science undergraduate at University of California, Merced. Curre
 - Lead developer/manager at [transprogrammer](https://github.com/transprogrammer)
 - Discord bot developer (in my spare time)
 
-Currently my focus is on robotics and web backend applications.
-I work on building APIs and production-ready server-side applications working with 
-both SQL and NoSQL databases. I tend to work with frontend frameworks such as
+Currently my focus is engineering server-side applications and infrastructure, including
+database management. I tend to work with frontend frameworks such as
 from React to backend frameworks like Django, Flask, and many more.
-
 
 # Current Projects
 

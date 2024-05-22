@@ -20,10 +20,15 @@ Currently my focus is engineering server-side applications and infrastructure, i
 database management. I tend to work with frontend frameworks such as
 from React to backend frameworks like Django, Flask, and many more.
 
-# Current Projects
+## Details
 
+<details>
+  <summary>Current Projects</summary>
+  
 [![Kumiko](https://github-readme-stats.vercel.app/api/pin/?username=No767&repo=Kumiko&theme=dark&hide_border=true&border_radius=6&icon_color=ffa8fb)](https://github.com/No767/Kumiko) [![rodhaj](https://github-readme-stats.vercel.app/api/pin/?username=transprogrammer&repo=rodhaj&theme=dark&hide_border=true&border_radius=6&icon_color=ffa8fb)](https://github.com/transprogrammer/rodhaj)
 
+</details>
+  
 <details>
   <summary>More projects</summary>
 

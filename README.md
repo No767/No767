@@ -2,7 +2,7 @@
 
 ## Hey there, I'm Noelle
 
-[![Python](https://img.shields.io/badge/-Python-141414?style=flat&logo=python)](https://www.python.org/) [![Java](https://img.shields.io/badge/-Java-141414?style=flat&logo=openjdk)](https://adoptium.net/) [![TypeScript](https://img.shields.io/badge/-TypeScript-141414?style=flat&logo=typescript)](https://www.typescriptlang.org/)
+[![Python](https://img.shields.io/badge/-Python-141414?style=flat&logo=python)](https://www.python.org/) [![Java](https://img.shields.io/badge/-Java-141414?style=flat&logo=openjdk)](https://adoptium.net/) [![TypeScript](https://img.shields.io/badge/-TypeScript-141414?style=flat&logo=typescript)](https://www.typescriptlang.org/) ![C++](https://img.shields.io/badge/-C++-141414?style=flat&logo=c%2B%2B)
   
 <div align=left>
 
@@ -69,6 +69,7 @@ from React to backend frameworks like Django, Flask, and many more.
 [![Python](https://img.shields.io/badge/-Python-141414?style=flat&logo=python)](https://www.python.org/)
 [![Java](https://img.shields.io/badge/-Java-141414?style=flat&logo=openjdk)](https://adoptium.net/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-141414?style=flat&logo=typescript)](https://www.typescriptlang.org/)
+![C++](https://img.shields.io/badge/-C++-141414?style=flat&logo=c%2B%2B)
 
 ### Languages That I Currently Use
 
@@ -79,6 +80,7 @@ from React to backend frameworks like Django, Flask, and many more.
 ![HTML](https://img.shields.io/badge/-HTML-141414?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-141414?style=flat&logo=css3)
 ![SQL](https://img.shields.io/badge/-SQL-141414?style=flat&logo=postgresql)
+![C++](https://img.shields.io/badge/-C++-141414?style=flat&logo=c%2B%2B)
 
 ### Languages that I am learning or have started
 
@@ -89,7 +91,6 @@ from React to backend frameworks like Django, Flask, and many more.
 [![Kotlin](https://img.shields.io/badge/-Kotlin-141414?style=flat&logo=kotlin)](https://kotlinlang.org/)
 [![C#](https://img.shields.io/badge/-C%23-141414?style=flat&logo=csharp)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 ![C](https://img.shields.io/badge/-C-141414?style=flat&logo=c)
-![C++](https://img.shields.io/badge/-C++-141414?style=flat&logo=c%2B%2B)
 
 ### Linux Distros that I know and use
 [![Debian](https://img.shields.io/badge/-Debian-141414?style=flat&logo=debian)](https://www.debian.org/)

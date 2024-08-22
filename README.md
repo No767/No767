@@ -26,15 +26,8 @@ from React to backend frameworks like Django, Flask, and many more.
 <details>
   <summary>Current Projects</summary>
   
-[![Kumiko](https://github-readme-stats.vercel.app/api/pin/?username=No767&repo=Kumiko&theme=dark&hide_border=true&border_radius=6&icon_color=ffa8fb)](https://github.com/No767/Kumiko) [![rodhaj](https://github-readme-stats.vercel.app/api/pin/?username=transprogrammer&repo=rodhaj&theme=dark&hide_border=true&border_radius=6&icon_color=ffa8fb)](https://github.com/transprogrammer/rodhaj)
+[![Catherine-Chan](https://github-readme-stats.vercel.app/api/pin/?username=No767&repo=Catherine-Chan&theme=dark&hide_border=true&border_radius=6&icon_color=ffa8fb)](https://github.com/No767/Catherine-Chan) [![rodhaj](https://github-readme-stats.vercel.app/api/pin/?username=transprogrammer&repo=rodhaj&theme=dark&hide_border=true&border_radius=6&icon_color=ffa8fb)](https://github.com/transprogrammer/rodhaj)
 
-</details>
-  
-<details>
-  <summary>More projects</summary>
-
-  [![Catherine-Chan](https://github-readme-stats.vercel.app/api/pin/?username=No767&repo=Catherine-Chan&theme=dark&hide_border=true&border_radius=6&icon_color=ffa8fb)](https://github.com/No767/Catherine-Chan) 
-  
 </details>
       
 <details>
@@ -82,12 +75,9 @@ from React to backend frameworks like Django, Flask, and many more.
 ![SQL](https://img.shields.io/badge/-SQL-141414?style=flat&logo=postgresql)
 ![C++](https://img.shields.io/badge/-C++-141414?style=flat&logo=c%2B%2B)
 
-### Languages that I am learning or have started
-
-[![Rust](https://img.shields.io/badge/-Rust-141414?style=flat&logo=rust)](https://www.rust-lang.org/)
-
 ### Planned Languages to Learn
 
+[![Rust](https://img.shields.io/badge/-Rust-141414?style=flat&logo=rust)](https://www.rust-lang.org/)
 [![Kotlin](https://img.shields.io/badge/-Kotlin-141414?style=flat&logo=kotlin)](https://kotlinlang.org/)
 [![C#](https://img.shields.io/badge/-C%23-141414?style=flat&logo=csharp)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 ![C](https://img.shields.io/badge/-C-141414?style=flat&logo=c)

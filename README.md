@@ -9,10 +9,10 @@
 I'm an Computer Science undergraduate at University of California, Merced. Currently, some of my positions include:
 
 - CITRIS Educational Intern at UC Merced
-- Hardware/Software Mentor at FRC 5507 (1st year as a mentor, 5 years on the team)
+- Software Mentor at FRC 5507 (2nd year as a mentor, 6 years on the team)
     - Alumni and Former Hardware Leader
 - Software Mentor and Former President at GWHS Girls Who Code
-- Former Webmaster at [UCMercedACM](https://github.com/UCMercedACM)
+- Webmaster at [UCMercedACM](https://github.com/UCMercedACM)
 - Member of Society of Women Engineers at UC Merced
 - Lead developer/manager at [transprogrammer](https://github.com/transprogrammer)
 - Discord bot developer (in my spare time)

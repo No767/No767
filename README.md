@@ -47,8 +47,9 @@ from React to backend frameworks like Django, Flask, and many more.
 [![trophy](https://github-profile-trophy.vercel.app/?username=No767&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![stats](https://github-readme-stats.vercel.app/api?username=No767&count_private=true&show_icons=true&theme=dark&hide_border=true&border_radius=6&icon_color=ffa8fb&card_width=350)](https://github.com/No767)
-[![GitHub Streak](https://streak-stats.demolab.com?user=No767&theme=dark&hide_border=true&border_radius=6)](https://git.io/streak-stats)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/454357482102587393)](https://discord.com/users/454357482102587393)
+<a href="https://github.com/No767">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?&username=No767&hide=css,html&theme=dark&layout=compact&hide_border=true&icon_color=ffa8fb" />
+</a>
   
 </details>

@@ -8,7 +8,7 @@
 
 I'm an Computer Science undergraduate at University of California, Merced. Currently, some of my positions include:
 
-- CITRIS Educational Intern at UC Merced
+- CITRIS Educational Intern / Web Developer at UC Merced
 - Software Mentor at FRC 5507 (2nd year as a mentor, 6 years on the team)
     - Alumni and Former Hardware Leader
 - Software Mentor and Former President at GWHS Girls Who Code

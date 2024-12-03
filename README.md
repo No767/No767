@@ -6,7 +6,7 @@
   
 <div align=left>
 
-I'm an Computer Science undergraduate at University of California, Merced. Currently, some of my positions include:
+I'm an Computer Science undergraduate at University of California, Merced and international scholar at Meiji Gakuin University. Currently, some of my positions include:
 
 - CITRIS Educational Intern / Web Developer at UC Merced
 - Software Mentor at FRC 5507 (2nd year as a mentor, 6 years on the team)

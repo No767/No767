@@ -6,13 +6,13 @@
   
 <div align=left>
 
-I'm an Computer Science undergraduate at University of California, Merced and international scholar at Meiji Gakuin University. Currently, some of my positions include:
+I'm an Computer Science undergraduate at University of California, Merced and International Economics at Meiji Gakuin University. Currently, some of my positions include:
 
 - CITRIS Educational Intern / Web Developer at UC Merced
 - Software Mentor at FRC 5507 (2nd year as a mentor, 6 years on the team)
-    - Alumni and Former Hardware Leader
+    - Alumni and Former Hardware Leader (2022-2023)
 - Software Mentor and Former President at GWHS Girls Who Code
-- Webmaster / General Project Manager at [UCMercedACM](https://github.com/UCMercedACM)
+- Administrative Assistant / Webmaster / Project Manager at [UCMercedACM](https://github.com/UCMercedACM)
 - Member of Society of Women Engineers at UC Merced
 - Lead developer/manager at [transprogrammer](https://github.com/transprogrammer)
 - Discord bot developer (in my spare time)
@@ -26,8 +26,6 @@ from React to backend frameworks like Django, Flask, and many more.
 <details>
   <summary>Current Projects</summary>
   
-[![Catherine-Chan](https://github-readme-stats.vercel.app/api/pin/?username=No767&repo=Catherine-Chan&theme=dark&hide_border=true&border_radius=6&icon_color=ffa8fb)](https://github.com/No767/Catherine-Chan) [![rodhaj](https://github-readme-stats.vercel.app/api/pin/?username=transprogrammer&repo=rodhaj&theme=dark&hide_border=true&border_radius=6&icon_color=ffa8fb)](https://github.com/transprogrammer/rodhaj)
-
 </details>
       
 <details>
